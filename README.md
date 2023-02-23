@@ -12,9 +12,8 @@
 |:----:| Libft |:-------------:|<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2820243" alt="myagiz's 42 Libft Score" /></a>|
 
 
-| 1. halka  |
-|:---------------------------------------------------------------------------------:|
-
+|                             1. halka                                           |
+|:------------------------------------------------------------------------------:|
 | ## | Name | Directory | Exercises |
 |:----:|:-----------------------------------|:-------------:|:------------------:|
 |:----:| ft_printf |:-------------:|<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2851248" alt="myagiz's 42 ft_printf Score" /></a>|
