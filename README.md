@@ -1,7 +1,7 @@
 ### 💥Hi there, I'm Mustafa YAĞIZ 👋
 
 
-<img width="1372" alt="Screen Shot 2023-02-23 at 5 18 43 PM" src="https://user-images.githubusercontent.com/112881823/220933750-ece083e9-63c1-4025-98b9-8d8f52f47485.png">
+<img width="1225" alt="Screen Shot 2023-02-23 at 5 24 50 PM" src="https://user-images.githubusercontent.com/112881823/220935143-2e195510-317f-4b64-84a5-e5cd0bd31d03.png">
 
 
 <a href="https://github.com/JaeSeoKim/badge42"><img width="400px" src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=21&coalitionId=233" alt="myagiz's 42 stats" /></a> <a href="https://github.com/JaeSeoKim/badge42"><img width="400px" src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=9&coalitionId=245" alt="myagiz's 42 stats" /></a>
