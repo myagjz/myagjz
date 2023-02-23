@@ -1,8 +1,7 @@
 ### 💥Hi there 👋
 
 
-[![myagiz's 42 stats](https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=21&coalitionId=233)](https://github.com/JaeSeoKim/badge42)
-
+[![myagiz's 42 stats](https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=21&coalitionId=233)](https://github.com/JaeSeoKim/badge42) [![myagiz's 42 stats](https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 <!--
 **myagjz/myagjz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
