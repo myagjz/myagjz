@@ -1,7 +1,8 @@
 ### 💥Hi there, I'm Mustafa YAĞIZ 👋
 
 
-![gipshy](https://user-images.githubusercontent.com/112881823/220935706-bfe4c9ac-34ec-4bbf-989b-b40af690e8b6.gif)
+![42_Logo](https://user-images.githubusercontent.com/112881823/220938245-1a71c441-b389-44bc-b42e-4fb403e8c94c.png)
+
 
 
 
