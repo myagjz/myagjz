@@ -9,7 +9,7 @@
 
 | ## | Name | Exercises |
 |:----:|:-----------------------------------|:------------------:|
-| 01 | <a href="https://github.com/myagjz/42cursus-Libft">Libft</a> |<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2820243" alt="myagiz's 42 Libft Score" /></a>|
+| 01 | <a href="https://github.com/myagjz/42cursus-Libft">Libft</a> |<a href="https://github.com/myagjz/42cursus-Libft"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2820243" alt="myagiz's 42 Libft Score" /></a>|
 | 02 | ft_printf |<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2851248" alt="myagiz's 42 ft_printf Score" /></a>|
 | 03 | get_next_line |<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2896755" alt="myagiz's 42 get_next_line Score" /></a>|
 | 04 | Born2beroot |<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2896773" alt="myagiz's 42 Born2beroot Score" /></a>|
