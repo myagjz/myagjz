@@ -1,6 +1,6 @@
 ### 💥Hi there 👋
 
-<a width="100px" href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=21&coalitionId=233" alt="myagiz's 42 stats" /></a> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=9&coalitionId=245" alt="myagiz's 42 stats" /></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img width="400px" src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=21&coalitionId=233" alt="myagiz's 42 stats" /></a> <a href="https://github.com/JaeSeoKim/badge42"><img width="400px" src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=9&coalitionId=245" alt="myagiz's 42 stats" /></a>
 
 
 
