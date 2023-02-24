@@ -1,6 +1,5 @@
 ### 💥Hi there, I'm Mustafa YAĞIZ 👋
 
-<img width="1225" alt="Screen Shot 2023-02-23 at 5 24 50 PM" src="https://user-images.githubusercontent.com/112881823/221003464-a2165383-3455-406f-b5f7-244a84fde9d7.png">
 
 
 <a href="https://github.com/myagjz?tab=repositories"><img width="420px" src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=21&coalitionId=233" alt="myagiz's 42 stats" /></a> <a href="https://github.com/myagjz/42Ecole-Piscine"><img width="420px" src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=9&coalitionId=245" alt="myagiz's 42 stats" /></a>
