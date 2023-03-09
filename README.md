@@ -4,9 +4,6 @@
 
 <a href="https://github.com/myagjz?tab=repositories"><img width="420px" src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=21&coalitionId=233" alt="myagiz's 42 stats" /></a> <a href="https://github.com/myagjz/42Ecole-Piscine"><img width="420px" src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=9&coalitionId=245" alt="myagiz's 42 stats" /></a>
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/myagiz?1337Badge=off&UM6P=off" alt="myagiz's 42 stats" /></a>
-
-
 # 42 Cursus Projects
 
 | ## | Name | Exercises |
