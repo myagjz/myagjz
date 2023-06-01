@@ -15,6 +15,8 @@
 | 05 | <a href="https://github.com/myagjz/42-minitalk">minitalk</a>|<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/3007914" alt="myagiz's 42 minitalk Score" /></a>|
 | 06 | <a href="https://github.com/myagjz/42-push_swap">push_swap</a>|<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/3091674" alt="myagiz's 42 push_swap Score" /></a>|
 | 07 | <a href="https://github.com/myagjz/42-fract-ol">fract-ol</a>|<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/3103287" alt="myagiz's 42 fract-ol Score" /></a>|
+| 08 |<a href="https://github.com/myagjz/42-Exam_Rank_02">Exam_Rank_02</a>|<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2933000" alt="myagiz's 42 Exam Rank 02 Score" /></a>|
+| 09 |<a href="https://github.com/myagjz/42-Philosophers">Philosophers</a>|<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/3108754" alt="myagiz's 42 Philosophers Score" /></a>|
 
 
 
