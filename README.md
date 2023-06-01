@@ -12,6 +12,7 @@
 | 02 | <a href="https://github.com/myagjz/42cursus-ft_printf">ft_printf</a> |<a href="https://github.com/myagjz/42cursus-ft_printf"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2851248" alt="myagiz's 42 ft_printf Score" /></a>|
 | 03 | <a href="https://github.com/myagjz/42cursus-get_next_line">get_next_line</a> |<a href="https://github.com/myagjz/42cursus-get_next_line"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2896755" alt="myagiz's 42 get_next_line Score" /></a>|
 | 04 | Born2beroot |<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2896773" alt="myagiz's 42 Born2beroot Score" /></a>|
+| 05 | <a href="https://github.com/myagjz/42-minitalk">minitalk</a>|<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/3007914" alt="myagiz's 42 minitalk Score" /></a>|
 
 
 <!--
