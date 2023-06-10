@@ -18,7 +18,7 @@
 | 08 |<a href="https://github.com/myagjz/42-Exam_Rank_02">Exam_Rank_02</a>|<a href="https://github.com/myagjz/42-Exam_Rank_02"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2933000" alt="myagiz's 42 Exam Rank 02 Score" /></a>|
 | 09 |<a href="https://github.com/myagjz/42-Philosophers">Philosophers</a>|<a href="https://github.com/myagjz/42-Philosophers"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/3108754" alt="myagiz's 42 Philosophers Score" /></a>|
 | 10 |<a href="https://github.com/myagjz/42-minishell">minishell</a>|<a href="https://github.com/myagjz/42-minishell"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/3110533" alt="myagiz's 42 minishell Score" /></a>|
-
+| 11 |<a href="https://github.com/myagjz/42-Exam_Rank_03">Exam_Rank_03</a>|<a href="https://github.com/myagjz/42-Exam_Rank_03"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2933000" alt="myagiz's 42 Exam Rank 02 Score" /></a>|
 
 
 <!--
