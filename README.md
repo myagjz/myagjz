@@ -1,6 +1,6 @@
 ### 💥Hi there, I'm Mustafa YAĞIZ 👋
 
-### Hello! I am a student at 42 schools and I actively use GitHub. I prefer GitHub to share my projects, contribute, and improve my coding skills. If you have any questions about me or if you'd like to take a look at my projects, you can find me on Twitter at @yagjz. There, you can find more information about my GitHub profile and projects, discuss open-source projects, and ask technical questions. I would be happy to hear from you and have you follow my updates. I look forward to seeing you there!
+###      I am a student at 42 schools and I actively use GitHub. I prefer GitHub to share my projects, contribute, and improve my coding skills. If you have any questions about me or if you'd like to take a look at my projects, you can find me on Twitter at @yagjz. There, you can find more information about my GitHub profile and projects, discuss open-source projects, and ask technical questions. I would be happy to hear from you and have you follow my updates. I look forward to seeing you there!
 
 
 
