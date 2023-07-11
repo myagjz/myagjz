@@ -4,7 +4,7 @@ I am a student at 42 schools and I actively use GitHub. I prefer GitHub to share
 
 
 
-<a href="https://profile.intra.42.fr/users/myagiz"><img width="420px" src="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=21&coalitionId=359" alt="myagiz's 42 stats" alt="myagiz's 42 stats" /></a> <a href="https://github.com/myagjz/42Ecole-Piscine"><img width="420px" src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=9&coalitionId=245" alt="myagiz's 42 stats" /></a>
+<a href="https://profile.intra.42.fr/users/myagiz"><img width="420px" src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=21&coalitionId=359" alt="myagiz's 42 stats" alt="myagiz's 42 stats" /></a> <a href="https://github.com/myagjz/42Ecole-Piscine"><img width="420px" src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=9&coalitionId=245" alt="myagiz's 42 stats" /></a>
 
 # 42 Cursus Projects
 
