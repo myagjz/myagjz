@@ -24,7 +24,7 @@ I am a student at 42 schools and I actively use GitHub. I prefer GitHub to share
 # 42 C Piscine
 <a href="https://github.com/myagjz/42Ecole-Piscine"><img width="600px" src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=9&coalitionId=245" alt="myagiz's 42 stats" /></a>
 
-<a href="https://github.com/myagjz/42-C_Piscine">42 C Piscine Go</a>
+# <a href="https://github.com/myagjz/42-C_Piscine">42 C Piscine Go</a>
 
 <!--
 **myagjz/myagjz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
