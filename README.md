@@ -22,7 +22,7 @@ I am a student at 42 schools and I actively use GitHub. I prefer GitHub to share
 | 11 | <a href="https://github.com/myagjz/42-Exam_Rank_03">Exam_Rank_03</a>|<a href="https://github.com/myagjz/42-Exam_Rank_03"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/3109799" alt="myagiz's 42 Exam Rank 03 Score" /></a>|<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
 
 # 42 Piscine
-<a href="https://github.com/myagjz/42Ecole-Piscine"><img width="420px" src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=9&coalitionId=245" alt="myagiz's 42 stats" /></a>
+<a href="https://github.com/myagjz/42Ecole-Piscine"><img width="600px" src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=9&coalitionId=245" alt="myagiz's 42 stats" /></a>
 
 <!--
 **myagjz/myagjz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
