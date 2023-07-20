@@ -17,11 +17,10 @@ I am a student at 42 schools and I actively use GitHub. I prefer GitHub to share
 | 05 | <a href="https://github.com/myagjz/42-minitalk">minitalk</a>|<a href="https://github.com/myagjz/42-minitalk"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/3091674" alt="myagiz's 42 push_swap Score" /></a>|
 | 06 | <a href="https://github.com/myagjz/42-push_swap">push_swap</a>|<a href="https://github.com/myagjz/42-push_swap"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/3091674" alt="myagiz's 42 push_swap Score" /></a>|
 | 07 | <a href="https://github.com/myagjz/42-fract-ol">fract-ol</a>|<a href="https://github.com/myagjz/42-fract-ol"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/3103287" alt="myagiz's 42 fract-ol Score" /></a>|
-| 08 |<a href="https://github.com/myagjz/42-Exam_Rank_02">Exam_Rank_02</a>|<a href="https://github.com/myagjz/42-Exam_Rank_02"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2933000" alt="myagiz's 42 Exam Rank 02 Score" /></a>|
-| 09 |<a href="https://github.com/myagjz/42-Philosophers">Philosophers</a>|<a href="https://github.com/myagjz/42-Philosophers"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/3108754" alt="myagiz's 42 Philosophers Score" /></a>|
-| 10 |<a href="https://github.com/myagjz/42-minishell">minishell</a>|<a href="<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/3110533" alt="myagiz's 42 minishell Score" /></a>">|
-| 11 |<a href="https://github.com/myagjz/42-Exam_Rank_03">Exam_Rank_03</a>|<a href="https://github.com/myagjz/42-Exam_Rank_03"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2933000" alt="myagiz's 42 Exam Rank 02 Score" /></a>|
-
+| 08 | <a href="https://github.com/myagjz/42-Exam_Rank_02">Exam_Rank_02</a>|<a href="https://github.com/myagjz/42-Exam_Rank_02"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2933000" alt="myagiz's 42 Exam Rank 02 Score" /></a>|
+| 09 | <a href="https://github.com/myagjz/42-Philosophers">Philosophers</a>|<a href="https://github.com/myagjz/42-Philosophers"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/3108754" alt="myagiz's 42 Philosophers Score" /></a>|
+| 10 | <a href="https://github.com/myagjz/42-minishell">minishell</a>|<a href="<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/3110533" alt="myagiz's 42 minishell Score" /></a>">|
+| 11 | <a href="https://github.com/myagjz/42-Exam_Rank_03">Exam_Rank_03</a>|<a href="https://github.com/myagjz/42-Exam_Rank_03"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=21&coalitionId=245" alt="myagiz's 42 stats" /></a>
 <!--
 **myagjz/myagjz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
