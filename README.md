@@ -10,7 +10,7 @@ I am a student at 42 schools and I actively use GitHub. I prefer GitHub to share
 
 | ## | Name | Exercises | Private / Public |
 |:----:|:-----------------------------------|:------------------:|:------------------:|
-| 01 | <a href="https://github.com/myagjz/42cursus-libft">libft</a> |<a href="https://github.com/myagjz/42cursus-Libft"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2820243" alt="myagiz's 42 Libft Score" /></a>|:------------------:|
+| 01 | <a href="https://github.com/myagjz/42cursus-libft">libft</a> |<a href="https://github.com/myagjz/42cursus-Libft"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2820243" alt="myagiz's 42 Libft Score" /></a>|![açık](https://github.com/myagjz/myagjz/assets/112881823/a2eefa02-4b3d-43ab-b12b-cb7795f04b77)|
 | 02 | <a href="https://github.com/myagjz/42cursus-ft_printf">ft_printf</a> |<a href="https://github.com/myagjz/42cursus-ft_printf"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2851248" alt="myagiz's 42 ft_printf Score" /></a>|:------------------:|
 | 03 | <a href="https://github.com/myagjz/42cursus-get_next_line">get_next_line</a> |<a href="https://github.com/myagjz/42cursus-get_next_line"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2896755" alt="myagiz's 42 get_next_line Score" /></a>|:------------------:|
 | 04 | <a href="https://github.com/myagjz/42-Born2beroot">Born2beroot</a>|<a href="https://github.com/myagjz/42-Born2beroot"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2896773" alt="myagiz's 42 Born2beroot Score" /></a>|:------------------:|
