@@ -6,11 +6,14 @@ I am a student at 42 schools and I actively use GitHub. I prefer GitHub to share
 
 <a href="https://profile.intra.42.fr/users/myagiz"><img width="420px" src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=21&coalitionId=359" alt="myagiz's 42 stats" alt="myagiz's 42 stats" /></a> <a href="https://github.com/myagjz/42Ecole-Piscine"><img width="420px" src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=9&coalitionId=245" alt="myagiz's 42 stats" /></a>
 
+<img width="197" alt="101" src="https://github.com/myagjz/myagjz/assets/112881823/07c6423e-89cc-4d54-9867-44800c2cbd07">
+
+
 # 42 Cursus Projects
 
 | ## | Name | Exercises | Private / Public |
 |:----:|:-----------------------------------|:------------------:|:------------------:|
-| 01 | <a href="https://github.com/myagjz/42cursus-libft">libft</a> |<a href="https://github.com/myagjz/42cursus-Libft"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2820243" alt="myagiz's 42 Libft Score" /></a>|![kapalı](https://github.com/myagjz/myagjz/assets/112881823/cb87b71e-d4c8-40c8-be5f-c0cf838a8040)
+| 01 | <a href="https://github.com/myagjz/42cursus-libft">libft</a> |<a href="https://github.com/myagjz/42cursus-Libft"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2820243" alt="myagiz's 42 Libft Score" /></a>|width="197" alt="101" ![kapalı](https://github.com/myagjz/myagjz/assets/112881823/cb87b71e-d4c8-40c8-be5f-c0cf838a8040)
     |
 | 02 | <a href="https://github.com/myagjz/42cursus-ft_printf">ft_printf</a> |<a href="https://github.com/myagjz/42cursus-ft_printf"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2851248" alt="myagiz's 42 ft_printf Score" /></a>|:------------------:|
 | 03 | <a href="https://github.com/myagjz/42cursus-get_next_line">get_next_line</a> |<a href="https://github.com/myagjz/42cursus-get_next_line"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2896755" alt="myagiz's 42 get_next_line Score" /></a>|:-------------:|
