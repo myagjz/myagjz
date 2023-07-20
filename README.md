@@ -3,7 +3,7 @@
 I am a student at 42 schools and I actively use GitHub. I prefer GitHub to share my projects, contribute, and improve my coding skills. If you have any questions about me or if you'd like to take a look at my projects, you can find me on Twitter at <a href="https://twitter.com/yagjz">yagjz</a> . There, you can find more information about my GitHub profile and projects, discuss open-source projects, and ask technical questions. I would be happy to hear from you and have you follow my updates. I look forward to seeing you there!
 
 
-                <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=21&coalitionId=359" alt="myagiz's 42 stats" /></a>
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=21&coalitionId=359" alt="myagiz's 42 stats" /></a>
 
 # 42 Cursus Projects
 
