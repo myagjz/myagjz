@@ -1,6 +1,6 @@
 ### 💥Hi there, I'm Mustafa YAĞIZ 👋
 
-# I am a student at 42 schools and I actively use GitHub. I prefer GitHub to share my projects, contribute, and improve my coding skills. If you have any questions about me or if you'd like to take a look at my projects, you can find me on Twitter at <a href="https://twitter.com/yagjz">yagjz</a> . There, you can find more information about my GitHub profile and projects, discuss open-source projects, and ask technical questions. I would be happy to hear from you and have you follow my updates. I look forward to seeing you there!
+I am a student at 42 Kocaeli. I am a passionate software developer, and you can find various projects on my Github profile. I constantly strive to improve my coding skills and enhance my abilities. Feel free to explore my profile to check out my projects
 
 
  <a href="https://profile.intra.42.fr/users/myagiz"><img width="600px" src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=21&coalitionId=359" alt="myagiz's 42 stats" alt="myagiz's 42 stats" /></a>
