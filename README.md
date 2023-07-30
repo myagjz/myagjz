@@ -1,8 +1,8 @@
 ## 💥Hi there, I'm Mustafa YAĞIZ 👋
-<center>
+
 ### I am a student at 42 Kocaeli. I am a passionate software developer, and you can find various projects on my Github profile. I constantly strive to improve my coding skills and enhance my abilities. Feel free to explore my profile to check out my projects...
 
-<center><a href="https://profile.intra.42.fr/users/myagiz"><center><img width="600px" src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=21&coalitionId=359" alt="myagiz's 42 stats" alt="myagiz's 42 stats" /></center></a></center>
+<a href="https://profile.intra.42.fr/users/myagiz"><center><img width="600px" src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=21&coalitionId=359" alt="myagiz's 42 stats" alt="myagiz's 42 stats" /></center></a>
 
 # 42 Cursus Projects
 
