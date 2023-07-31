@@ -21,6 +21,8 @@
 | 11 | <a href="https://github.com/myagjz/42-Exam_Rank_03">Exam_Rank_03</a>|<a href="https://github.com/myagjz/42-Exam_Rank_03"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/3109799" alt="myagiz's 42 Exam Rank 03 Score" /></a>|<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
 | 12 | <a href="https://github.com/myagjz/NetPractice">NetPractice</a>|<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/3207048" alt="myagiz's 42 NetPractice Score" /></a>|<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
 | 13 | <a href="https://github.com/myagjz/cub3d">cub3d</a>|<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/3207152" alt="myagiz's 42 cub3d Score" /></a>|<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
+| 14 | <a href="https://github.com/myagjz/CPP-Modules">CPP Modules</a>|<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/3207152" alt="myagiz's 42 cub3d Score" /></a>|<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
+
 
 # 42 C Piscine
 <a href="https://github.com/myagjz/42Ecole-Piscine"><img width="500px" src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=9&coalitionId=245" alt="myagiz's 42 stats" /></a>
