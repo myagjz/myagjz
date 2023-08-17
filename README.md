@@ -27,10 +27,8 @@
    
    <h1 align="center"!</h1>
        42 C Piscine
-<h1 align="center"!</h1>
-<a href="https://github.com/myagjz/42Ecole-Piscine"><img width="500px" src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=9&coalitionId=245" alt="myagiz's 42 stats" /></a>
-    
-<h1 align="center"><a href="https://github.com/myagjz/42-C_Piscine">42 C Piscine Go</a></h1   
+       <a href="https://github.com/myagjz/42Ecole-Piscine"><img width="500px" src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=9&coalitionId=245" alt="myagiz's 42 stats" /></a>
+       <a href="https://github.com/myagjz/42-C_Piscine">42 C Piscine Go</a> 
 
 ![the-batman-2022](https://github.com/myagjz/myagjz/assets/112881823/62a66408-35ff-40ff-b240-144ef52a3410)
 
