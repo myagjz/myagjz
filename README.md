@@ -5,9 +5,9 @@
 <h1 align="center"!</h1>
 <a align="center" href="https://profile.intra.42.fr/users/myagiz"><center><img align="center" width="600px" src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=21&coalitionId=359" alt="myagiz's 42 stats" alt="myagiz's 42 stats" /></center></a>
 
-# 42 Cursus Projects
+<h1 align="center"> # 42 Cursus Projects !</h1>
+  
 
-<h1 align="center"!</h1>
   
 | ## | Name | Exercises | Private / Public |
 |:----:|:-----------------------------------|:------------------:|:------------------:|
