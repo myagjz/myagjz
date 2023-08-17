@@ -3,9 +3,11 @@
 ### I am a student at 42 Kocaeli. I am a passionate software developer, and you can find various projects on my Github profile. I constantly strive to improve my coding skills and enhance my abilities. Feel free to explore my profile to check out my projects...
 <h1 align="center"!</h1>
 <a align="center" href="https://profile.intra.42.fr/users/myagiz"><center><img align="center" width="600px" src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=21&coalitionId=359" alt="myagiz's 42 stats" alt="myagiz's 42 stats" /></center></a>
+
 <h1 align="center"!</h1>
 # 42 Cursus Projects
 
+<h1 align="center"!</h1>
 | ## | Name | Exercises | Private / Public |
 |:----:|:-----------------------------------|:------------------:|:------------------:|
 | 01 | <a href="https://github.com/myagjz/42cursus-libft">libft</a> |<a href="https://github.com/myagjz/42cursus-Libft"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2820243" alt="myagiz's 42 Libft Score" /></a>|<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
