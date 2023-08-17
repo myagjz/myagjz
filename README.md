@@ -7,7 +7,7 @@
 
 <h1 align="center"> 42 Cursus Projects </h1>
 
-  <h1 align="center"!</h1>
+  <h1 align="center"></h1>
     
 | ## | Name | Exercises | Private / Public |
 |:----:|:-----------------------------------|:------------------:|:------------------:|
