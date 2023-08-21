@@ -6,6 +6,9 @@
 <a align="center" href="https://profile.intra.42.fr/users/myagiz"><center><img align="center" width="600px" src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=21&coalitionId=359" alt="myagiz's 42 stats" alt="myagiz's 42 stats" /></center></a>
 
 <h1 align="center"> 42 Cursus Projects </h1>
+
+
+<h1 align="center">
     
 | ## | Name | Exercises | Private / Public |
 |:----:|:-----------------------------------|:------------------:|:------------------:|
@@ -24,7 +27,8 @@
 | 13 | <a href="https://github.com/myagjz/cub3d">cub3d</a>|<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/3207152" alt="myagiz's 42 cub3d Score" /></a>|<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
 | 14 | <a href="https://github.com/myagjz/CPP-Modules">CPP Modules</a>|<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/3207152" alt="myagiz's 42 cub3d Score" /></a>|<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
 | 15 | <a href="https://github.com/myagjz/42-Exam_Rank_04">Exam_Rank_04</a>|<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/3211446" alt="myagiz's 42 Exam Rank 04 Score" /></a>|<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
-   
+
+</h1>
 
 <h1 align="center"> 42 C Piscine</h1>     
 <h1 align="center"><a href="https://github.com/myagjz/42Ecole-Piscine"><img width="500px" src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=9&coalitionId=245" alt="myagiz's 42 stats" /></a></h1>
