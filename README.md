@@ -9,7 +9,6 @@
 
 
 <h1 align="center">
-    
 | ## | Name | Exercises | Private / Public |
 |:----:|:-----------------------------------|:------------------:|:------------------:|
 | 01 | <a href="https://github.com/myagjz/42cursus-libft">libft</a> |<a href="https://github.com/myagjz/42cursus-Libft"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2820243" alt="myagiz's 42 Libft Score" /></a>|<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
