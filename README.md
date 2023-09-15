@@ -24,7 +24,7 @@
 
 | 11 | <a href="https://github.com/myagjz/42-Exam_Rank_03">Exam_Rank_03</a>| 100 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
 
-| 12 | <a href="https://github.com/myagjz/NetPractice">NetPractice</a>| 100 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
+| 12 |<a href="https://github.com/myagjz/NetPractice"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/netpracticem.png" alt="42 Badge" style="max-width: 100%;"></a>| 100 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
 
 | 13 | <a href="https://github.com/myagjz/cub3d">cub3d</a>| 0 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
 
