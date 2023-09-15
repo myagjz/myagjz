@@ -11,7 +11,7 @@
 |:----:|:-----------------------------------|:------------------:|:------------------:|
 | 01 |<a href="https://github.com/myagjz/42-libft"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/libftm.png" alt="42 Badge" style="max-width: 100%;"></a>| 125 |<img width="50" alt="10" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
 | 02 |<a href="https://github.com/myagjz/42-ft_printf"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/ft_printfe.png" alt="42 Badge" style="max-width: 100%;"></a> | 100 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
-| 03 | <a href="https://github.com/myagjz/42-get_next_line"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/get_next_linem.png" alt="42 Badge" style="max-width: 100%;"></a>| 100 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
+| 03 | <a href="https://github.com/myagjz/42-get_next_line"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/get_next_linem.png" alt="42 Badge" style="max-width: 100%;"></a>| 125 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
 
 | 04 | <a href="https://github.com/myagjz/42-Born2beroot">Born2beroot</a>| 100 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
 
