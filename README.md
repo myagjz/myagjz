@@ -14,8 +14,7 @@
 | 03 | <a href="https://github.com/myagjz/42-get_next_line"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/get_next_linem.png" alt="42 Badge" style="max-width: 100%;"></a>| 125 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
 | 04 |<a href="https://github.com/myagjz/42-Born2beroot"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/born2beroote.png" alt="42 Badge" style="max-width: 100%;"></a>| 110 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
 | 05 | <a href="https://github.com/myagjz/42-minitalk"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/minitalkm.png" alt="42 Badge" style="max-width: 100%;"></a>| 125 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
-
-| 06 | <a href="https://github.com/myagjz/42-push_swap">push_swap</a>| 125 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
+| 06 | <a href="https://github.com/myagjz/42-push_swap"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/push_swapm.png" alt="42 Badge" style="max-width: 100%;"></a>| 125 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
 
 | 07 | <a href="https://github.com/myagjz/42-fract-ol">fract-ol</a>| 125 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
 
