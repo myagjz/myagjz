@@ -9,7 +9,7 @@
 
 | ## | Name | Exercises | Private / Public |
 |:----:|:-----------------------------------|:------------------:|:------------------:|
-| 01 |<a href="https://github.com/myagjz/42-libft"><img src="(https://github.com/myagjz/myagjz/assets/112881823/42c3cfdb-c5bc-463e-8f46-b2f2e5246f04)" alt="myagiz's 42 ft_printf Score" /></a>| 125 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
+| 01 |<a href="https://github.com/myagjz/42-libft"><img src="(https://github.com/myagjz/myagjz/assets/112881823/42c3cfdb-c5bc-463e-8f46-b2f2e5246f04)"/></a>| 125 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
 
 | 02 | <a href="https://github.com/myagjz/42cursus-ft_printf">ft_printf</a> |<a href="https://github.com/myagjz/42cursus-ft_printf"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2851248" alt="myagiz's 42 ft_printf Score" /></a>|<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
 | 03 | <a href="https://github.com/myagjz/42cursus-get_next_line">get_next_line</a> |<a href="https://github.com/myagjz/42cursus-get_next_line"><img src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/project/2896755" alt="myagiz's 42 get_next_line Score" /></a>|<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
