@@ -16,21 +16,20 @@
 | 05 | <a href="https://github.com/myagjz/42-minitalk"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/minitalkm.png" alt="42 Badge" style="max-width: 100%;"></a>| 125 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
 | 06 | <a href="https://github.com/myagjz/42-push_swap"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/push_swapm.png" alt="42 Badge" style="max-width: 100%;"></a>| 125 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
 | 07 |<a href="https://github.com/myagjz/42-fract-ol"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/fract-olm.png" alt="42 Badge" style="max-width: 100%;"></a>| 125 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
+| 08 |<a href="https://github.com/myagjz/42-Philosophers"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/philosophersm.png" alt="42 Badge" style="max-width: 100%;"></a>| 125 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
+| 09 |<a href="https://github.com/myagjz/42-minishell"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/minitalke.png" alt="42 Badge" style="max-width: 100%;"></a>| 101 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
+| 10 |<a href="https://github.com/myagjz/NetPractice"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/netpracticem.png" alt="42 Badge" style="max-width: 100%;"></a>| 100 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
 
-| 08 | <a href="https://github.com/myagjz/42-Exam_Rank_02">Exam_Rank_02</a>| 100 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
+| 11 | <a href="https://github.com/myagjz/cub3d">cub3d</a>| 0 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
 
-| 09 |<a href="https://github.com/myagjz/42-Philosophers"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/philosophersm.png" alt="42 Badge" style="max-width: 100%;"></a>| 125 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
-| 10 |<a href="https://github.com/myagjz/42-minishell"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/minitalke.png" alt="42 Badge" style="max-width: 100%;"></a>| 101 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
+| 12 | <a href="https://github.com/myagjz/CPP-Modules">CPP Modules</a>| 0 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
 
-| 11 | <a href="https://github.com/myagjz/42-Exam_Rank_03">Exam_Rank_03</a>| 100 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
 
-| 12 |<a href="https://github.com/myagjz/NetPractice"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/netpracticem.png" alt="42 Badge" style="max-width: 100%;"></a>| 100 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
+| 2 | <a href="https://github.com/myagjz/42-Exam_Rank_02">Exam_Rank_02</a>| 100 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
 
-| 13 | <a href="https://github.com/myagjz/cub3d">cub3d</a>| 0 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
+| 3 | <a href="https://github.com/myagjz/42-Exam_Rank_03">Exam_Rank_03</a>| 100 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
 
-| 14 | <a href="https://github.com/myagjz/CPP-Modules">CPP Modules</a>| 0 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
-
-| 15 | <a href="https://github.com/myagjz/42-Exam_Rank_04">Exam_Rank_04</a>| 100 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
+| 4 | <a href="https://github.com/myagjz/42-Exam_Rank_04">Exam_Rank_04</a>| 100 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
 
 <h1 align="center"> 42 C Piscine</h1>     
 <h1 align="center"><a href="https://github.com/myagjz/42Ecole-Piscine"><img width="500px" src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=9&coalitionId=245" alt="myagiz's 42 stats" /></a></h1>
