@@ -30,7 +30,6 @@
 | 4 | <a href="https://github.com/myagjz/42-Exam_Rank_04">Exam_Rank_04</a>| 100 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
 
 <h1 align="center"> 42 C Piscine</h1>     
-<h1 align="center"><a href="https://github.com/myagjz/42Ecole-Piscine"><img width="500px" src="https://badge42.vercel.app/api/v2/cl7ogw1d800060gl08xulbt98/stats?cursusId=9&coalitionId=245" alt="myagiz's 42 stats" /></a></h1>
 
 <h1 align="center"><a href="https://github.com/myagjz/42-C_Piscine">42 C Piscine Go</a></h1>
     
