@@ -30,10 +30,7 @@
 | 3 | <a href="https://github.com/myagjz/42-Exam_Rank_04">Exam_04</a> | <img width="196" alt="100" src="https://github.com/myagjz/myagjz/assets/112881823/365854f6-fcd6-4071-bd55-dcd5b98099af"> | <img width="100" alt="25" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
 
 <h1 align="center"> 42 C Piscine</h1>     
-
 <img width="1133" alt="piscine level" src="https://github.com/myagjz/myagjz/assets/112881823/568eb76b-5574-41f4-b181-f8af0c06ee3f">
-
-
 <h1 align="center"><a href="https://github.com/myagjz/42-C_Piscine">42 C Piscine Go</a></h1>
     
 
