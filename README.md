@@ -26,6 +26,7 @@
 <h1 align="center"> 42 Cursus Exams </h1>
 <h1 align="center"> <img width="599" alt="Screen Shot 2023-09-21 at 2 31 26 PM" src="https://github.com/myagjz/myagjz/assets/112881823/4724d39d-6cc8-4f87-9826-ff11fcf28acf"></h1>
 
+| ## | Project | Exercises | Private / Public |
 | 2 | <a href="https://github.com/myagjz/42-Exam_Rank_02">Exam_Rank_02</a>| 100 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
 
 | 3 | <a href="https://github.com/myagjz/42-Exam_Rank_03">Exam_Rank_03</a>| 100 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
