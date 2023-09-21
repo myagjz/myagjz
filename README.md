@@ -23,6 +23,7 @@
 | 11 |<a href="https://github.com/myagjz/cub3d"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/cub3dm.png" alt="42 Badge" style="max-width: 100%;"></a>|<img width="198" alt="sub" src="https://github.com/myagjz/myagjz/assets/112881823/8f248d4c-9fc6-42b8-bd0f-738c07e2625b">|<img width="100" alt="25" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
 | 12 |<a href="https://github.com/myagjz/CPP-Modules"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/cppm.png" alt="42 Badge" style="max-width: 100%;"></a>|<img width="198" alt="sub" src="https://github.com/myagjz/myagjz/assets/112881823/163d92ed-9e02-4cf9-ac44-c104c6ab6712">|<img width="100" alt="25" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
 
+<h1 align="center"> 42 Cursus EXAMS </h1>
 
 | 2 | <a href="https://github.com/myagjz/42-Exam_Rank_02">Exam_Rank_02</a>| 100 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
 
