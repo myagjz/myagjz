@@ -22,11 +22,12 @@
 
 <h1 align="center"> 42 Cursus Exams </h1>
 <h1 align="center"> <img width="599" alt="Screen Shot 2023-09-21 at 2 31 26 PM" src="https://github.com/myagjz/myagjz/assets/112881823/4724d39d-6cc8-4f87-9826-ff11fcf28acf"></h1>
+
 | ## | Project | Exercises | Private / Public |
 |:----:|:-----------------------------------|:------------------:|:------------------:|
-| 1 | <a href="https://github.com/myagjz/42-Exam_Rank_02">Exam_Rank_02</a> | <img width="196" alt="100" src="https://github.com/myagjz/myagjz/assets/112881823/365854f6-fcd6-4071-bd55-dcd5b98099af"> | <img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
-| 2 | <a href="https://github.com/myagjz/42-Exam_Rank_03">Exam_Rank_03</a> | <img width="196" alt="100" src="https://github.com/myagjz/myagjz/assets/112881823/365854f6-fcd6-4071-bd55-dcd5b98099af"> | <img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
-| 3 | <a href="https://github.com/myagjz/42-Exam_Rank_04">Exam_Rank_04</a> | <img width="196" alt="100" src="https://github.com/myagjz/myagjz/assets/112881823/365854f6-fcd6-4071-bd55-dcd5b98099af"> | <img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
+| 1 | <a href="https://github.com/myagjz/42-Exam_Rank_02">Exam_Rank_02</a> | <img width="196" alt="100" src="https://github.com/myagjz/myagjz/assets/112881823/365854f6-fcd6-4071-bd55-dcd5b98099af"> | <img width="100" alt="25" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
+| 2 | <a href="https://github.com/myagjz/42-Exam_Rank_03">Exam_Rank_03</a> | <img width="196" alt="100" src="https://github.com/myagjz/myagjz/assets/112881823/365854f6-fcd6-4071-bd55-dcd5b98099af"> | <img width="100" alt="25" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
+| 3 | <a href="https://github.com/myagjz/42-Exam_Rank_04">Exam_Rank_04</a> | <img width="196" alt="100" src="https://github.com/myagjz/myagjz/assets/112881823/365854f6-fcd6-4071-bd55-dcd5b98099af"> | <img width="100" alt="25" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
 
 <h1 align="center"> 42 C Piscine</h1>     
 
