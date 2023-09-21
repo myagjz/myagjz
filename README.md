@@ -2,6 +2,7 @@
 
 ### I am a student at 42 Kocaeli. I am a passionate software developer, and you can find various projects on my Github profile. Feel free to explore my profile to check out my projects...
 
+
 <h1 align="center"!</h1>
 <a align="center" href="https://profile.intra.42.fr/users/myagiz"><center><img align="center" width="600" alt="25" src="https://badge.mediaplus.ma/binary/myagiz?1337Badge=off&UM6P=off" alt="myagiz's 42 stats" alt="myagiz's 42 stats" /></center></a>
 
