@@ -28,11 +28,9 @@
 
 | ## | Project | Exercises | Private / Public |
 |:----:|:-----------------------------------|:------------------:|:------------------:|
-| 2 | <a href="https://github.com/myagjz/42-Exam_Rank_02">Exam_Rank_02</a>| 100 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
-
-| 3 | <a href="https://github.com/myagjz/42-Exam_Rank_03">Exam_Rank_03</a>| 100 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
-
-| 4 | <a href="https://github.com/myagjz/42-Exam_Rank_04">Exam_Rank_04</a>| 100 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
+| 1 | <a href="https://github.com/myagjz/42-Exam_Rank_02">Exam_Rank_02</a>| 100 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
+| 2 | <a href="https://github.com/myagjz/42-Exam_Rank_03">Exam_Rank_03</a>| 100 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
+| 3 | <a href="https://github.com/myagjz/42-Exam_Rank_04">Exam_Rank_04</a>| 100 |<img width="25" alt="5" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
 
 <h1 align="center"> 42 C Piscine</h1>     
 
