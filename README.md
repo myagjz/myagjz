@@ -16,7 +16,7 @@
 
 <div align="center">
    
-| ## | Project | Exercises | Private / Public |
+| ## | FİNAL Project | Exercises | Private / Public |
 |:----:|:-----------------------------------|:------------------:|:------------------:|
 | 15 |<a href="https://github.com/myagjz/42-ft_transcendence"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/ft_transcendencem.png" alt="42 Badge" style="max-width: 100%;"></a>|<img width="198" alt="sub" src="https://github.com/myagjz/myagjz/assets/112881823/163d92ed-9e02-4cf9-ac44-c104c6ab6712">|<img width="60" alt="15" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
 </div>
