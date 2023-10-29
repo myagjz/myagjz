@@ -14,10 +14,11 @@
 | 11 |<a href="https://github.com/myagjz/cub3d"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/cub3dm.png" alt="42 Badge" style="max-width: 100%;"></a>|<img width="196" alt="110" src="https://github.com/myagjz/myagjz/assets/112881823/2c0bbdb5-0eb0-4292-a584-0d7c26f5becf">|<img width="60" alt="15" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">| 12 |<a href="https://github.com/myagjz/CPP-Modules"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/cppm.png" alt="42 Badge" style="max-width: 100%;"></a>|<img width="198" alt="sub" src="https://github.com/myagjz/myagjz/assets/112881823/163d92ed-9e02-4cf9-ac44-c104c6ab6712">|<img width="60" alt="15" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
 | 13 |<a href="https://github.com/myagjz/42-Inception"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/inceptionm.png" alt="42 Badge" style="max-width: 100%;"></a>|<img width="198" alt="sub" src="https://github.com/myagjz/myagjz/assets/112881823/163d92ed-9e02-4cf9-ac44-c104c6ab6712">|<img width="60" alt="15" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">| 14 |<a href="https://github.com/myagjz/42-Webserv"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/webservm.png" alt="42 Badge" style="max-width: 100%;"></a>|<img width="198" alt="sub" src="https://github.com/myagjz/myagjz/assets/112881823/163d92ed-9e02-4cf9-ac44-c104c6ab6712">|<img width="60" alt="15" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
 
-| ## | Project | Exercises | Private / Public |
-|:----:|:-----------------------------------|:------------------:|:------------------:|
-| 15 |<a href="https://github.com/myagjz/42-ft_transcendence"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/ft_transcendencem.png" alt="42 Badge" style="max-width: 100%;"></a>|<img width="198" alt="sub" src="https://github.com/myagjz/myagjz/assets/112881823/163d92ed-9e02-4cf9-ac44-c104c6ab6712">|<img width="60" alt="15" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
-
+<h1 align="center">
+    | ## | Project | Exercises | Private / Public |
+    |:----:|:-----------------------------------|:------------------:|:------------------:|
+    | 15 |<a href="https://github.com/myagjz/42-ft_transcendence"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/ft_transcendencem.png" alt="42 Badge" style="max-width: 100%;"></a>|<img width="198" alt="sub" src="https://github.com/myagjz/myagjz/assets/112881823/163d92ed-9e02-4cf9-ac44-c104c6ab6712">|<img width="60" alt="15" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
+</h1>
 
 <h1 align="center"> 42 Cursus Exams </h1>
 <h1 align="center"> <img width="599" alt="Screen Shot 2023-09-21 at 2 31 26 PM" src="https://github.com/myagjz/myagjz/assets/112881823/4724d39d-6cc8-4f87-9826-ff11fcf28acf"></h1>
