@@ -1,7 +1,6 @@
 ## 💥Hi there, I'm Mustafa YAĞIZ 👋
 
-### I am a student at 42 Kocaeli. I am a passionate software developer, and you can find various projects on my Github profile. Feel free to explore my profile to check out my projects...
-
+### Updating... soon
 <h1 align="center"> 42 Cursus Projects </h1>
 
 <div align="center">
