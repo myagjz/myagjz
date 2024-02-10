@@ -14,7 +14,7 @@
 <a href="https://github.com/myagjz/42-ft_printf">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_printfe.png)</a>
 <a href="https://github.com/myagjz/42-Born2beroot">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/born2beroote.png)</a>
 <a href="https://github.com/myagjz/42-fract-ol">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/fract-ole.png)</a>
-<a href="https://github.com/myagjz/42-minitalk">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/42_badges/pipexe.png)</a>
+<a href="https://github.com/myagjz/42-minitalk">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/minitalkm.png)</a>
 <a href="https://github.com/myagjz/42-push_swap">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/push_swape.png)</a>
 <a href="https://github.com/myagjz/42-Philosophers">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/philosopherse.png)</a>
 <a href="https://github.com/myagjz/42-minishell">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/minishelle.png)</a>
