@@ -5,29 +5,26 @@
 <h1 align="center"> 42 Cursus Projects </h1>
 
 <div align="center">
-   
-| ## | Project | Exercises | Private / Public | 
-|:----:|:-----------------------------------|:------------------:|:------------------:|
-| 01 |<a href="https://github.com/myagjz/42-libft"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/libftm.png" alt="42 Badge" style="max-width: 100%;"></a>| <img width="196" alt="125" src="https://github.com/myagjz/myagjz/assets/112881823/ec5c5490-5337-4f92-9aba-c0a6f7f2dc8d">|<img width="100" alt="25" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
-| 02 |<a href="https://github.com/myagjz/42-ft_printf"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/ft_printfe.png" alt="42 Badge" style="max-width: 100%;"></a> |<img width="196" alt="100" src="https://github.com/myagjz/myagjz/assets/112881823/26ed10f2-8ff6-459c-b297-ac0f4a744fc4">|<img width="100" alt="25" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
-| 03 | <a href="https://github.com/myagjz/42-get_next_line"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/get_next_linem.png" alt="42 Badge" style="max-width: 100%;"></a>|<img width="196" alt="125" src="https://github.com/myagjz/myagjz/assets/112881823/2c31c5d5-fb5a-4d06-9176-ef24e298f80f">|<img width="100" alt="25" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">| 
-| 04 |<a href="https://github.com/myagjz/42-Born2beroot"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/born2beroote.png" alt="42 Badge" style="max-width: 100%;"></a>|<img width="196" alt="110" src="https://github.com/myagjz/myagjz/assets/112881823/2c0bbdb5-0eb0-4292-a584-0d7c26f5becf">|<img width="100" alt="25" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
-| 05 | <a href="https://github.com/myagjz/42-minitalk"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/minitalkm.png" alt="42 Badge" style="max-width: 100%;"></a>|<img width="196" alt="125" src="https://github.com/myagjz/myagjz/assets/112881823/38b495be-6b80-4a8d-aa0d-ee20fcfb476e">|<img width="100" alt="25" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">| 
-| 06 | <a href="https://github.com/myagjz/42-push_swap"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/push_swapm.png" alt="42 Badge" style="max-width: 100%;"></a>|<img width="196" alt="125" src="https://github.com/myagjz/myagjz/assets/112881823/ccf56bec-4240-4a40-b5ce-aa86966201b4">|<img width="100" alt="25" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
-| 07 |<a href="https://github.com/myagjz/42-fract-ol"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/fract-olm.png" alt="42 Badge" style="max-width: 100%;"></a>|<img width="196" alt="125" src="https://github.com/myagjz/myagjz/assets/112881823/428e810e-00e1-4fd8-b55c-2d2736012746">|<img width="100" alt="25" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
-| 08 |<a href="https://github.com/myagjz/42-Philosophers"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/philosophersm.png" alt="42 Badge" style="max-width: 100%;"></a>|<img width="196" alt="125" src="https://github.com/myagjz/myagjz/assets/112881823/6ddbaeec-5775-4519-b6ed-989062bae185">|<img width="100" alt="25" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
-| 09 |<a href="https://github.com/myagjz/42-minishell"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/minishelle.png" alt="42 Badge" style="max-width: 100%;"></a>|<img width="196" alt="101" src="https://github.com/myagjz/myagjz/assets/112881823/0ab7c143-b416-49ca-9806-200d799637a8">|<img width="100" alt="25" src="https://github.com/myagjz/myagjz/assets/112881823/67a55974-e6db-4e3f-a438-a337dfb81042">|
-| 10 |<a href="https://github.com/myagjz/NetPractice"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/netpracticem.png" alt="42 Badge" style="max-width: 100%;"></a>|<img width="196" alt="100" src="https://github.com/myagjz/myagjz/assets/112881823/e28cb2dc-47ff-4169-91dc-8715732d7be1">|<img width="100" alt="25" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
-| 11 |<a href="https://github.com/myagjz/cub3d"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/cub3dm.png" alt="42 Badge" style="max-width: 100%;"></a>|<img width="196" alt="110" src="https://github.com/myagjz/myagjz/assets/112881823/2c0bbdb5-0eb0-4292-a584-0d7c26f5becf">|<img width="100" alt="25" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
-| 12 |<a href="https://github.com/myagjz/CPP-Modules"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/cppm.png" alt="42 Badge" style="max-width: 100%;"></a>|<img width="198" alt="sub" src="https://github.com/myagjz/myagjz/assets/112881823/163d92ed-9e02-4cf9-ac44-c104c6ab6712">|<img width="100" alt="25" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
-| 13 |<a href="https://github.com/myagjz/42-Inception"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/inceptionm.png" alt="42 Badge" style="max-width: 100%;"></a>|<img width="198" alt="sub" src="https://github.com/myagjz/42-Project-Badges/blob/main/Point/forbidden.png">|<img width="100" alt="25" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
-| 14 |<a href="https://github.com/myagjz/42-ft_irc"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/ft_ircm.png" alt="42 Badge" style="max-width: 100%;"></a>|<img width="198" alt="sub" src="https://github.com/myagjz/42-Project-Badges/blob/main/Point/forbidden.png">|<img width="100" alt="25" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
-</div>
+
+### 42 School Projects
 <div align="center">
-   
-| ## | FINAL Project | Exercises | Private / Public |
-|:----:|:-----------------------------------|:------------------:|:------------------:|
-| 15 |<a href="https://github.com/myagjz/42-ft_transcendence"><img src="https://github.com/myagjz/42-Project-Badges/blob/main/ft_transcendencem.png" alt="42 Badge" style="max-width: 100%;"></a>|<img width="198" alt="sub" src="https://github.com/myagjz/42-Project-Badges/blob/main/Point/forbidden.png">|<img width="100" alt="25" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9">|
+
+<a href="https://github.com/myagjz/42-libft">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/libftm.png)</a>
+<a href="https://github.com/myagjz/42-get_next_line">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/get_next_linee.png)</a>
+<a href="https://github.com/myagjz/42-ft_printf">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_printfe.png)</a>
+<a href="https://github.com/myagjz/42-Born2beroot">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/born2beroote.png)</a>
+<a href="https://github.com/myagjz/42-fract-ol">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/fract-ole.png)</a>
+<a href="https://github.com/myagjz/42-minitalk">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/42_badges/pipexe.png)</a>
+<a href="https://github.com/myagjz/42-push_swap">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/push_swape.png)</a>
+<a href="https://github.com/myagjz/42-Philosophers">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/philosopherse.png)</a>
+<a href="https://github.com/myagjz/42-minishell">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/minishelle.png)</a>
+<a href="https://github.com/myagjz/NetPractice">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/netpracticee.png)</a>
+<a href="https://github.com/myagjz/CPP-Modules">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cppe.png)</a>
+<a href="https://github.com/myagjz/cub3d">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cub3de.png)</a>
+<a href="https://github.com/myagjz/42-ft_irc">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_irce.png)</a>
+<a href="https://github.com/myagjz/42-Inception">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/inceptione.png)</a>
+<a href="https://github.com/myagjz/42-ft_transcendence">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_transcendencee.png)</a>
+
 </div>
 
 <h1 align="center"> 42 Cursus Exams </h1>
