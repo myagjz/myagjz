@@ -11,18 +11,18 @@
 
 <a href="https://github.com/myagjz/42-libft">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/libftm.png)</a>
 <a href="https://github.com/myagjz/42-ft_printf">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_printfe.png)</a>
-<a href="https://github.com/myagjz/42-get_next_line">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/get_next_linee.png)</a>
+<a href="https://github.com/myagjz/42-get_next_line">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/get_next_linem.png)</a>
 <a href="https://github.com/myagjz/42-Born2beroot">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/born2beroote.png)</a>
 <a href="https://github.com/myagjz/42-minitalk">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/minitalkm.png)</a>
-<a href="https://github.com/myagjz/42-push_swap">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/push_swape.png)</a>
-<a href="https://github.com/myagjz/42-fract-ol">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/fract-ole.png)</a>
-<a href="https://github.com/myagjz/42-Philosophers">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/philosopherse.png)</a>
+<a href="https://github.com/myagjz/42-push_swap">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/push_swapm.png)</a>
+<a href="https://github.com/myagjz/42-fract-ol">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/fract-olm.png)</a>
+<a href="https://github.com/myagjz/42-Philosophers">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/philosophersm.png)</a>
 <a href="https://github.com/myagjz/42-minishell">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/minishelle.png)</a>
-<a href="https://github.com/myagjz/NetPractice">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/netpracticee.png)</a>
-<a href="https://github.com/myagjz/cub3d">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cub3de.png)</a>
-<a href="https://github.com/myagjz/CPP-Modules">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cppe.png)</a>
+<a href="https://github.com/myagjz/NetPractice">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/netpracticem.png)</a>
+<a href="https://github.com/myagjz/cub3d">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cub3dm.png)</a>
+<a href="https://github.com/myagjz/CPP-Modules">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cppm.png)</a>
 <a href="https://github.com/myagjz/42-ft_irc">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_irce.png)</a>
-<a href="https://github.com/myagjz/42-Inception">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/inceptione.png)</a>
+<a href="https://github.com/myagjz/42-Inception">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/inceptionm.png)</a>
 <a href="https://github.com/myagjz/42-ft_transcendence">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_transcendencee.png)</a>
 
 </div>
