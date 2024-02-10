@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### 42 School Projects
+
 <div align="center">
 
 <a href="https://github.com/myagjz/42-libft">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/libftm.png)</a>
