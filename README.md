@@ -50,6 +50,13 @@
   </div>
 </div> 
 
+<div align="center">
+    <h3 align="center">Fourth Circle</h3>
+    <a href="https://github.com/myagjz/NetPractice" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/netpracticem.png" ></a>
+    <a href="https://github.com/myagjz/cub3d" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cub3dm.png" ></a>
+    <a href="https://github.com/myagjz/CPP-Modules" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cppm.png" ></a>
+  </div>
+</div> 
 
 
 <h1 align="center"> 42 Cursus Exams </h1>
