@@ -10,29 +10,13 @@
 
 <div align="center">
 
-
-<div align="center">
-
-<a href="https://github.com/myagjz/42-libft">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/libftm.png)</a>
-
-<a href="https://github.com/myagjz/42-ft_printf">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_printfe.png)</a>
-<a href="https://github.com/myagjz/42-get_next_line">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/get_next_linem.png)</a>
-<a href="https://github.com/myagjz/42-Born2beroot">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/born2beroote.png)</a>
-
-<a href="https://github.com/myagjz/42-minitalk">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/minitalkm.png)</a>
-<a href="https://github.com/myagjz/42-push_swap">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/push_swapm.png)</a>
-<a href="https://github.com/myagjz/42-fract-ol">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/fract-olm.png)</a>
-
 <a href="https://github.com/myagjz/42-Philosophers">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/philosophersm.png)</a>
 <a href="https://github.com/myagjz/42-minishell">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/minishelle.png)</a>
-
 <a href="https://github.com/myagjz/NetPractice">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/netpracticem.png)</a>
 <a href="https://github.com/myagjz/cub3d">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cub3dm.png)</a>
 <a href="https://github.com/myagjz/CPP-Modules">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cppm.png)</a>
-
 <a href="https://github.com/myagjz/42-Inception">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/inceptionm.png)</a>
 <a href="https://github.com/myagjz/42-ft_irc">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_irce.png)</a>
-
 <a href="https://github.com/myagjz/42-ft_transcendence">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_transcendencee.png)</a>
 
 </div>
@@ -50,6 +34,14 @@
     <a href="https://github.com/myagjz/42-ft_printf" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_printfe.png" ></a>
     <a href="https://github.com/myagjz/42-get_next_line" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/get_next_linem.png" ></a>
     <a href="https://github.com/myagjz/42-Born2beroot" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/born2beroote.png" ></a>
+  </div>
+</div> 
+
+<div align="center">
+    <h3 align="center">Second Circle</h3>
+    <a href="https://github.com/myagjz/42-minitalk" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/minitalkm.png" ></a>
+    <a href="https://github.com/myagjz/42-push_swap" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/push_swapm.png" ></a>
+    <a href="https://github.com/myagjz/42-fract-ol" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/fract-olm.png" ></a>
   </div>
 </div> 
 
@@ -91,3 +83,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+
+<a href="https://github.com/myagjz/42-libft">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/libftm.png)</a>
+
+<a href="https://github.com/myagjz/42-ft_printf">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_printfe.png)</a>
+<a href="https://github.com/myagjz/42-get_next_line">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/get_next_linem.png)</a>
+<a href="https://github.com/myagjz/42-Born2beroot">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/born2beroote.png)</a>
