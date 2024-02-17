@@ -34,8 +34,7 @@
  <div align="center">
     <h3 align="center">First Try</h3>
     <a href="https://github.com/myagjz/42-ft_printf">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_printfe.png)</a>
-    <a href="https://github.com/myagjz/42-get_next_line">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/get_next_linem.png)</a>
-    <a href="https://github.com/myagjz/42-Born2beroot">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/born2beroote.png)</a>
+    <a href="https://github.com/myagjz/42-ft_printf" target="_blank"><img height="82" width="82" src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_printfe.png" ></a>
   </div>
 </div>  
 
