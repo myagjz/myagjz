@@ -10,9 +10,6 @@
 
 <div align="center">
 
-<a href="https://github.com/myagjz/NetPractice">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/netpracticem.png)</a>
-<a href="https://github.com/myagjz/cub3d">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cub3dm.png)</a>
-<a href="https://github.com/myagjz/CPP-Modules">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cppm.png)</a>
 <a href="https://github.com/myagjz/42-Inception">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/inceptionm.png)</a>
 <a href="https://github.com/myagjz/42-ft_irc">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_irce.png)</a>
 <a href="https://github.com/myagjz/42-ft_transcendence">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_transcendencee.png)</a>
