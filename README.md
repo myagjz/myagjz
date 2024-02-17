@@ -31,6 +31,16 @@
 
 </div>
 
+ <div align="center">
+    <h3 align="center">First Try</h3>
+    <a href="https://github.com/myagjz/42-ft_printf">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_printfe.png)</a>
+    <a href="https://github.com/myagjz/42-get_next_line">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/get_next_linem.png)</a>
+    <a href="https://github.com/myagjz/42-Born2beroot">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/born2beroote.png)</a>
+  </div>
+</div>  
+
+
+
 <h1 align="center"> 42 Cursus Exams </h1>
 <h1 align="center"> <img width="599" alt="Screen Shot 2023-09-21 at 2 31 26 PM" src="https://github.com/myagjz/myagjz/assets/112881823/4724d39d-6cc8-4f87-9826-ff11fcf28acf"></h1>
 
