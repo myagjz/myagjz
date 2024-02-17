@@ -36,7 +36,7 @@
 </div> 
 
 <div align="center">
-    <h3 align="center">Second Circle</h3>
+    <h3 align="center">Third Circle</h3>
     <a href="https://github.com/myagjz/42-minitalk" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/minitalkm.png" ></a>
     <a href="https://github.com/myagjz/42-push_swap" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/push_swapm.png" ></a>
     <a href="https://github.com/myagjz/42-fract-ol" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/fract-olm.png" ></a>
