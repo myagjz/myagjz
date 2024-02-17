@@ -13,7 +13,7 @@
     <a href="https://github.com/myagjz/42-libft" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/libftm.png" ></a>
 </div>
 
-  ---
+ <hr>
   
  <div align="center">
     <h3 align="center">First Circle</h3>
@@ -21,7 +21,7 @@
     <a href="https://github.com/myagjz/42-get_next_line" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/get_next_linem.png" ></a>
     <a href="https://github.com/myagjz/42-Born2beroot" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/born2beroote.png" ></a>
 </div> 
-  ---
+ <hr>
 <div align="center">
     <h3 align="center">Second Circle</h3>
     <a href="https://github.com/myagjz/42-minitalk" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/minitalkm.png" ></a>
