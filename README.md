@@ -10,8 +10,6 @@
 
 <div align="center">
 
-<a href="https://github.com/myagjz/42-Philosophers">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/philosophersm.png)</a>
-<a href="https://github.com/myagjz/42-minishell">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/minishelle.png)</a>
 <a href="https://github.com/myagjz/NetPractice">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/netpracticem.png)</a>
 <a href="https://github.com/myagjz/cub3d">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cub3dm.png)</a>
 <a href="https://github.com/myagjz/CPP-Modules">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cppm.png)</a>
@@ -42,6 +40,13 @@
     <a href="https://github.com/myagjz/42-minitalk" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/minitalkm.png" ></a>
     <a href="https://github.com/myagjz/42-push_swap" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/push_swapm.png" ></a>
     <a href="https://github.com/myagjz/42-fract-ol" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/fract-olm.png" ></a>
+  </div>
+</div> 
+
+<div align="center">
+    <h3 align="center">Second Circle</h3>
+    <a href="https://github.com/myagjz/42-Philosophers" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/philosophersm.png" ></a>
+    <a href="https://github.com/myagjz/42-minishell" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/minishelle.png" ></a>
   </div>
 </div> 
 
