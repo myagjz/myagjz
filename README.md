@@ -10,10 +10,6 @@
 
 <div align="center">
 
-<a href="https://github.com/myagjz/42-Inception">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/inceptionm.png)</a>
-<a href="https://github.com/myagjz/42-ft_irc">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_irce.png)</a>
-<a href="https://github.com/myagjz/42-ft_transcendence">![42 Badge](https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_transcendencee.png)</a>
-
 </div>
 
  <div align="center">
@@ -52,6 +48,20 @@
     <a href="https://github.com/myagjz/NetPractice" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/netpracticem.png" ></a>
     <a href="https://github.com/myagjz/cub3d" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cub3dm.png" ></a>
     <a href="https://github.com/myagjz/CPP-Modules" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cppm.png" ></a>
+  </div>
+</div> 
+
+<div align="center">
+    <h3 align="center">Fifth Circle</h3>
+    <a href="https://github.com/myagjz/CPP-Modules" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cppm.png" ></a>
+    <a href="https://github.com/myagjz/42-Inception" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/inceptionm.png" ></a>
+    <a href="https://github.com/myagjz/42-ft_irc" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_irce.png" ></a>
+  </div>
+</div> 
+
+<div align="center">
+    <h3 align="center">Sixth Circle - Last Project</h3>
+    <a href="https://github.com/myagjz/42-ft_transcendence" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_transcendencee.png" ></a>
   </div>
 </div> 
 
