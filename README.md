@@ -12,7 +12,6 @@
     <h3 align="center">First Project</h3>
     <a href="https://github.com/myagjz/42-libft" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/libftm.png" ></a>
 </div>
-
   ---
  <div align="center">
     <h3 align="center">First Circle</h3>
@@ -20,34 +19,34 @@
     <a href="https://github.com/myagjz/42-get_next_line" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/get_next_linem.png" ></a>
     <a href="https://github.com/myagjz/42-Born2beroot" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/born2beroote.png" ></a>
 </div> 
-
+  ---
 <div align="center">
     <h3 align="center">Second Circle</h3>
     <a href="https://github.com/myagjz/42-minitalk" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/minitalkm.png" ></a>
     <a href="https://github.com/myagjz/42-push_swap" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/push_swapm.png" ></a>
     <a href="https://github.com/myagjz/42-fract-ol" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/fract-olm.png" ></a>
 </div> 
-
+  ---
 <div align="center">
     <h3 align="center">Third Circle</h3>
     <a href="https://github.com/myagjz/42-Philosophers" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/philosophersm.png" ></a>
     <a href="https://github.com/myagjz/42-minishell" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/minishelle.png" ></a>
 </div> 
-
+  ---
 <div align="center">
     <h3 align="center">Fourth Circle</h3>
     <a href="https://github.com/myagjz/NetPractice" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/netpracticem.png" ></a>
     <a href="https://github.com/myagjz/cub3d" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cub3dm.png" ></a>
     <a href="https://github.com/myagjz/CPP-Modules" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cppm.png" ></a>
 </div> 
-
+  ---
 <div align="center">
     <h3 align="center">Fifth Circle</h3>
     <a href="https://github.com/myagjz/CPP-Modules" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cppm.png" ></a>
     <a href="https://github.com/myagjz/42-Inception" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/inceptionm.png" ></a>
     <a href="https://github.com/myagjz/42-ft_irc" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_irce.png" ></a>
 </div> 
-
+  ---
 <div align="center">
     <h3 align="center">Sixth Circle - Last Project</h3>
     <a href="https://github.com/myagjz/42-ft_transcendence" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_transcendencee.png" ></a>
