@@ -13,6 +13,7 @@
     <a href="https://github.com/myagjz/42-libft" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/libftm.png" ></a>
 </div>
 
+  ---
  <div align="center">
     <h3 align="center">First Circle</h3>
     <a href="https://github.com/myagjz/42-ft_printf" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_printfe.png" ></a>
@@ -52,8 +53,6 @@
     <a href="https://github.com/myagjz/42-ft_transcendence" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_transcendencee.png" ></a>
   </div>
 
-
-<h2 align="center"> ---> Work space <--- </h2>
 
 <h1 align="center"> 42 Cursus Exams </h1>
 <h1 align="center"> <img width="599" alt="Screen Shot 2023-09-21 at 2 31 26 PM" src="https://github.com/myagjz/myagjz/assets/112881823/4724d39d-6cc8-4f87-9826-ff11fcf28acf"></h1>
