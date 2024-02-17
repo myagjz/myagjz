@@ -33,7 +33,7 @@
 
  <div align="center">
     <h3 align="center">First Try</h3>
-    <a href="https://github.com/myagjz/42-ft_printf" target="_blank"><img height="82" width="82" src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_printfe.png" ></a>
+    <a href="https://github.com/myagjz/42-ft_printf" target="_blank"><img height="100" width="100" src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_printfe.png" ></a>
   </div>
 </div>  
 
