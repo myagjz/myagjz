@@ -32,8 +32,8 @@
 </div>
 
  <div align="center">
-    <h3 align="center">First Try</h3>
-    <a href="https://github.com/myagjz/42-ft_printf" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_printfe.png" ></a>
+    <h3 align="center">First Project</h3>
+    <a href="https://github.com/myagjz/42-libft" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/libftm.png" ></a>
   </div>
 </div>  
 
