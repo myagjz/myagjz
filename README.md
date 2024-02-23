@@ -20,7 +20,6 @@
     <a href="https://github.com/myagjz/42-minitalk" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/minitalkm.png" ></a>
     <a href="https://github.com/myagjz/42-push_swap" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/push_swapm.png" ></a>
     <a href="https://github.com/myagjz/42-fract-ol" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/fract-olm.png" ></a>
-    <a href="https://github.com/myagjz/42-fract-ol" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/Point/RANK.png" ></a>
 </div> 
  <hr>
 <div align="center">
