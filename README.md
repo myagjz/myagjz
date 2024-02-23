@@ -41,7 +41,6 @@
     <a href="https://github.com/myagjz/42-ft_irc" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_irce.png" ></a>
 </div> 
 <div align="center">
-    <h3 align="center">Last Project</h3>
     <a href="https://github.com/myagjz/42-ft_transcendence" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_transcendencee.png" ></a>
   </div>
  <hr>
