@@ -43,7 +43,6 @@
     <a href="https://github.com/myagjz/42-Inception" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/inceptionm.png" ></a>
     <a href="https://github.com/myagjz/42-ft_irc" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_irce.png" ></a>
 </div> 
- <hr>
 <div align="center">
     <h3 align="center">Sixth Circle - Last Project</h3>
     <a href="https://github.com/myagjz/42-ft_transcendence" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_transcendencee.png" ></a>
