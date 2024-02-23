@@ -27,6 +27,7 @@
 </div> 
  <hr>
 <div align="center">
+    <h3 align="center">PART 2</h3>
     <h3 align="center">Third Circle</h3>
     <a href="https://github.com/myagjz/42-Philosophers" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/philosophersm.png" ></a>
     <a href="https://github.com/myagjz/42-minishell" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/minishelle.png" ></a>
@@ -39,6 +40,7 @@
 </div> 
  <hr>
 <div align="center">
+    <h3 align="center">PART 3</h3>
     <h3 align="center">Fifth Circle</h3>
     <a href="https://github.com/myagjz/CPP-Modules" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cppm.png" ></a>
     <a href="https://github.com/myagjz/42-Inception" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/inceptionm.png" ></a>
