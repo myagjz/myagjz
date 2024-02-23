@@ -9,6 +9,7 @@
 <h1 align="center"> 42 Cursus Projects </h1>
 
  <div align="center">
+    <h3 align="center">PART 1</h3>
     <h3 align="center">First Project</h3>
     <a href="https://github.com/myagjz/42-libft" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/libftm.png" ></a>
 </div>
