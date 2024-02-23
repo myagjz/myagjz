@@ -30,7 +30,6 @@
     <a href="https://github.com/myagjz/42-Philosophers" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/philosophersm.png" ></a>
     <a href="https://github.com/myagjz/42-minishell" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/minishelle.png" ></a>
 </div> 
- <hr>
 <div align="center">
     <h3 align="center">Fourth Circle</h3>
     <a href="https://github.com/myagjz/NetPractice" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/netpracticem.png" ></a>
