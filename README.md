@@ -30,12 +30,12 @@
 <div align="center">
     <a href="https://github.com/myagjz/NetPractice" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/netpracticem.png" ></a>
     <a href="https://github.com/myagjz/cub3d" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cub3dm.png" ></a>
-    <a href="https://github.com/myagjz/CPP-Modules" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cppm.png" ></a>
+    <a href="https://github.com/myagjz/42-CPP-Modules-Part-1" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cppm.png" ></a>
 </div> 
  <hr>
 <div align="center">
     <h3 align="center">PART 3</h3>
-    <a href="https://github.com/myagjz/CPP-Modules" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cppm.png" ></a>
+    <a href="https://github.com/myagjz/42-CPP-Modules-Part-2" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cppm.png" ></a>
     <a href="https://github.com/myagjz/42-Inception" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/inceptionm.png" ></a>
     <a href="https://github.com/myagjz/42-ft_irc" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_irce.png" ></a>
 </div> 
