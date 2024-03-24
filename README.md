@@ -29,7 +29,7 @@
     <a href="https://github.com/myagjz/42-minishell" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/minishelle.png" ></a>
     <a href="https://github.com/myagjz/NetPractice" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/netpracticee.png" ></a>
     <a href="https://github.com/myagjz/cub3d" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cub3de.png" ></a>
-    <a href="https://github.com/myagjz/42-CPP-Modules-Part-1" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cppe.png" ></a>
+    <a href="https://github.com/myagjz/42-CPP-Modules" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cppe.png" ></a>
 </div> 
 <div align="center">
     
@@ -37,7 +37,7 @@
  <hr>
 <div align="center">
     <h3 align="center">PART 3</h3>
-    <a href="https://github.com/myagjz/42-CPP-Modules-Part-2" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cppe.png" ></a>
+    <a href="https://github.com/myagjz/42-CPP-Modules" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cppe.png" ></a>
     <a href="https://github.com/myagjz/42-Inception" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/inceptione.png" ></a>
     <a href="https://github.com/myagjz/42-ft_irc" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_irce.png" ></a>
     <a href="https://github.com/myagjz/42-ft_transcendence" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_transcendencee.png" ></a>
