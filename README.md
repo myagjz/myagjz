@@ -29,7 +29,6 @@
     <a href="https://github.com/myagjz/42-minishell" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/minishelle.png" ></a>
     <a href="https://github.com/myagjz/NetPractice" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/netpracticee.png" ></a>
     <a href="https://github.com/myagjz/cub3d" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cub3de.png" ></a>
-    <a href="https://github.com/myagjz/42-CPP-Modules" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/cppe.png" ></a>
 </div> 
 <div align="center">
     
