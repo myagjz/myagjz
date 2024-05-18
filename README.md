@@ -4,6 +4,10 @@
 
 ### Updating... soon
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=myagjz&label=Profile%20Views&color=0&icon=5&pretty=false" />
+</a>
+
 
 <h1 align="center"> 42 Cursus Projects </h1>
 
