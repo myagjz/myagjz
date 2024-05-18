@@ -4,11 +4,6 @@
 
 ### Updating... soon
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=myagjz&label=Profile%20Views&color=0&icon=5&pretty=false" />
-</a>
-
-
 <h1 align="center"> 42 Cursus Projects </h1>
 
  <div align="center">
@@ -70,6 +65,10 @@
     
 
 ![the-batman-2022](https://github.com/myagjz/myagjz/assets/112881823/62a66408-35ff-40ff-b240-144ef52a3410)
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=myagjz&label=Profile%20Views&color=0&icon=5&pretty=false" />
+</a>
 
 <!--
 **myagjz/myagjz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
