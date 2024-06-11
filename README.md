@@ -58,11 +58,6 @@
 | 5 | <a href="https://github.com/myagjz/42-Exam_Rank_06">Exam_06</a> | <img width="198" alt="sub" src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/Point/forbidden.png"> | <img width="100" alt="25" src="https://github.com/myagjz/myagjz/assets/112881823/ee5be70b-c73c-4647-8aac-baebca5865a9"> |
 </div>
 
-<h1 align="center"> 42 C Piscine</h1>     
-<img width="1133" alt="piscine level" src="https://github.com/myagjz/myagjz/assets/112881823/568eb76b-5574-41f4-b181-f8af0c06ee3f">
-<h1 align="center"><a href="https://github.com/myagjz/42-C_Piscine">42 C Piscine Go</a></h1>
-    
-
 ![the-batman-2022](https://github.com/myagjz/myagjz/assets/112881823/62a66408-35ff-40ff-b240-144ef52a3410)
 
 <a href="https://visitcount.itsvg.in">
