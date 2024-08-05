@@ -46,8 +46,8 @@
 
 <div align="center">
  
-| ## | Project | Exercises | Private / Public |
-|:----:|:-----------------------------------|:------------------:|:------------------:|
+| ## | Project | Exercises |
+|:----:|:-----------------------------------|:------------------:|
 | 1 | <a href="https://github.com/myagjz/42-Exam_Rank_02">Exam_02</a> | <img width="196" alt="100" src="https://github.com/myagjz/myagjz/assets/112881823/365854f6-fcd6-4071-bd55-dcd5b98099af">
 | 2 | <a href="https://github.com/myagjz/42-Exam_Rank_03">Exam_03</a> | <img width="196" alt="100" src="https://github.com/myagjz/myagjz/assets/112881823/365854f6-fcd6-4071-bd55-dcd5b98099af">
 | 3 | <a href="https://github.com/myagjz/42-Exam_Rank_04">Exam_04</a> | <img width="196" alt="100" src="https://github.com/myagjz/myagjz/assets/112881823/365854f6-fcd6-4071-bd55-dcd5b98099af">
