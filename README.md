@@ -48,11 +48,11 @@
  
 | ## | Project | Exercises | Private / Public |
 |:----:|:-----------------------------------|:------------------:|:------------------:|
-| 1 | <a href="https://github.com/myagjz/42-Exam_Rank_02">Exam_02</a> | <img width="196" alt="100" src="https://github.com/myagjz/myagjz/assets/112881823/365854f6-fcd6-4071-bd55-dcd5b98099af"> |
-| 2 | <a href="https://github.com/myagjz/42-Exam_Rank_03">Exam_03</a> | <img width="196" alt="100" src="https://github.com/myagjz/myagjz/assets/112881823/365854f6-fcd6-4071-bd55-dcd5b98099af"> | 
-| 3 | <a href="https://github.com/myagjz/42-Exam_Rank_04">Exam_04</a> | <img width="196" alt="100" src="https://github.com/myagjz/myagjz/assets/112881823/365854f6-fcd6-4071-bd55-dcd5b98099af"> |
-| 4 | <a href="https://github.com/myagjz/42-Exam_Rank_05">Exam_05</a> | <img width="196" alt="100" src="https://github.com/myagjz/myagjz/assets/112881823/365854f6-fcd6-4071-bd55-dcd5b98099af"> | 
-| 5 | <a href="https://github.com/myagjz/42-Exam_Rank_06">Exam_06</a> | <img width="198" alt="sub" src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/Point/forbidden.png"> |
+| 1 | <a href="https://github.com/myagjz/42-Exam_Rank_02">Exam_02</a> | <img width="196" alt="100" src="https://github.com/myagjz/myagjz/assets/112881823/365854f6-fcd6-4071-bd55-dcd5b98099af">
+| 2 | <a href="https://github.com/myagjz/42-Exam_Rank_03">Exam_03</a> | <img width="196" alt="100" src="https://github.com/myagjz/myagjz/assets/112881823/365854f6-fcd6-4071-bd55-dcd5b98099af">
+| 3 | <a href="https://github.com/myagjz/42-Exam_Rank_04">Exam_04</a> | <img width="196" alt="100" src="https://github.com/myagjz/myagjz/assets/112881823/365854f6-fcd6-4071-bd55-dcd5b98099af">
+| 4 | <a href="https://github.com/myagjz/42-Exam_Rank_05">Exam_05</a> | <img width="196" alt="100" src="https://github.com/myagjz/myagjz/assets/112881823/365854f6-fcd6-4071-bd55-dcd5b98099af"> 
+| 5 | <a href="https://github.com/myagjz/42-Exam_Rank_06">Exam_06</a> | <img width="198" alt="sub" src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/Point/forbidden.png">
 </div>
 
 ![the-batman-2022](https://github.com/myagjz/myagjz/assets/112881823/62a66408-35ff-40ff-b240-144ef52a3410)
