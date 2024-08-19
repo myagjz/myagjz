@@ -45,7 +45,8 @@
 <h1 align="center"> <img width="599" alt="Screen Shot 2023-09-21 at 2 31 26 PM" src="https://github.com/myagjz/myagjz/assets/112881823/4724d39d-6cc8-4f87-9826-ff11fcf28acf"></h1>
 
 <div align="center">
- 
+
+| ## | Project | Exercises |Exercises |Exercises |Exercises |
 |:----:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|
 | 1 | <a href="https://github.com/myagjz/42-Exam_Rank_02" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/Point/2.png" ></a> |
 | 2 | <a href="https://github.com/myagjz/42-Exam_Rank_03" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/Point/3.png" ></a> | 
