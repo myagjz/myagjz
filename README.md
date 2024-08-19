@@ -46,7 +46,7 @@
 
 <div align="center">
  
-| RANK 02 | RANK 03 | RANK 04 | RANK 05 | RANK 06 |
+
 |:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|
 | <a href="https://github.com/myagjz/42-Exam_Rank_02" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/Point/2.png" ></a> |<a href="https://github.com/myagjz/42-Exam_Rank_03" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/Point/3.png" ></a> | <a href="https://github.com/myagjz/42-Exam_Rank_04" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/Point/4.png" ></a> | <a href="https://github.com/myagjz/42-Exam_Rank_05" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/Point/5.png" ></a> | <a href="https://github.com/myagjz/42-Exam_Rank_06" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/Point/6.png" ></a> |
 
