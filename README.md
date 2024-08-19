@@ -48,11 +48,11 @@
  
 | ## | Project | Exercises |
 |:----:|:-----------------------------------|:------------------:|
-| 1 | <a href="https://github.com/myagjz/42-Exam_Rank_02">Exam_02</a> | <img width="196" alt="100" src="https://github.com/myagjz/myagjz/assets/112881823/365854f6-fcd6-4071-bd55-dcd5b98099af">
-| 2 | <a href="https://github.com/myagjz/42-Exam_Rank_03">Exam_03</a> | <img width="196" alt="100" src="https://github.com/myagjz/myagjz/assets/112881823/365854f6-fcd6-4071-bd55-dcd5b98099af">
-| 3 | <a href="https://github.com/myagjz/42-Exam_Rank_04">Exam_04</a> | <img width="196" alt="100" src="https://github.com/myagjz/myagjz/assets/112881823/365854f6-fcd6-4071-bd55-dcd5b98099af">
-| 4 | <a href="https://github.com/myagjz/42-Exam_Rank_05">Exam_05</a> | <img width="196" alt="100" src="https://github.com/myagjz/myagjz/assets/112881823/365854f6-fcd6-4071-bd55-dcd5b98099af"> 
-| 5 | <a href="https://github.com/myagjz/42-Exam_Rank_06">Exam_06</a> | <img width="196" alt="100" src="https://github.com/myagjz/myagjz/assets/112881823/365854f6-fcd6-4071-bd55-dcd5b98099af">
+| 1 | <a href="https://github.com/myagjz/42-Exam_Rank_02" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/Point/2.png" ></a> | <img width="196" alt="100" src="https://github.com/myagjz/myagjz/assets/112881823/365854f6-fcd6-4071-bd55-dcd5b98099af">
+| 2 | href="https://github.com/myagjz/42-Exam_Rank_03" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/Point/3.png" ></a> | <img width="196" alt="100" src="https://github.com/myagjz/myagjz/assets/112881823/365854f6-fcd6-4071-bd55-dcd5b98099af">
+| 3 | <a href="https://github.com/myagjz/42-Exam_Rank_04" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/Point/4.png" ></a> | <img width="196" alt="100" src="https://github.com/myagjz/myagjz/assets/112881823/365854f6-fcd6-4071-bd55-dcd5b98099af">
+| 4 | <a href="https://github.com/myagjz/42-Exam_Rank_05" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/Point/5.png" ></a> | <img width="196" alt="100" src="https://github.com/myagjz/myagjz/assets/112881823/365854f6-fcd6-4071-bd55-dcd5b98099af"> 
+| 5 | <a href="https://github.com/myagjz/42-Exam_Rank_06" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/Point/6.png" ></a> | <img width="196" alt="100" src="https://github.com/myagjz/myagjz/assets/112881823/365854f6-fcd6-4071-bd55-dcd5b98099af">
 </div>
 
 ![the-batman-2022](https://github.com/myagjz/myagjz/assets/112881823/62a66408-35ff-40ff-b240-144ef52a3410)
