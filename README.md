@@ -3,10 +3,9 @@
 <h1 align="center"> 42 Cursus Projects </h1>
 
   <tr>
-    <td><a href="https://github.com/CemBOLAT/libft" align="center">Libft</a></td>
+    <td><a href="https://github.com/myagjz/42-libft" src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/libfte.png" align="center">Libft</a></td>
     <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/libft" alt="c"/></td>
     <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
   </tr>
 
  <div align="center">
