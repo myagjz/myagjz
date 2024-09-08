@@ -10,8 +10,6 @@
     <a href="https://github.com/myagjz/42-Born2beroot" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/born2beroote.png" ></a>
 </div>
 
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
