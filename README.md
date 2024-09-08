@@ -3,7 +3,7 @@
 <h1 align="center"> 42 Cursus Projects </h1>
 
 
-<div style="text-align: center;">
+<div style="display: flex; flex-direction: column; align-items: center;">
   <a href="https://github.com/myagjz/42-libft" target="_blank">
     <img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/libfte.png" alt="Libft Badge">
   </a>
