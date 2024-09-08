@@ -4,7 +4,6 @@
 
   <tr>
     <a href="https://github.com/myagjz/42-libft" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/libfte.png" ></a>
-    <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/libft" alt="c"/></td>
     <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
   </tr>
 
