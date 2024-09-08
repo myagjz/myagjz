@@ -9,12 +9,14 @@
     <a href="https://github.com/myagjz/42-get_next_line" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/get_next_linee.png" ></a>
     <a href="https://github.com/myagjz/42-Born2beroot" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/born2beroote.png" ></a>
 </div>
- <div align="center">
-    <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
-</div>
+<table align="center">
+    <tr>
+        <td><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
+        <td><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
+        <td><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
+        <td><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
+    </tr>
+</table>
 
 
  <div align="center">
