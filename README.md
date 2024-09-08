@@ -3,22 +3,44 @@
 <h1 align="center"> 42 Cursus Projects </h1>
 
 
-<div align="center">
-    <h3 align="center">PART 1</h3>
-    <table align="center">
-        <tr>
-            <td><a href="https://github.com/myagjz/42-libft" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/libfte.png" ></a></td>
-            <td><a href="https://github.com/myagjz/42-ft_printf" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_printfe.png" ></a></td>
-            <td><a href="https://github.com/myagjz/42-get_next_line" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/get_next_linee.png" ></a></td>
-            <td><a href="https://github.com/myagjz/42-Born2beroot" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/born2beroote.png" ></a></td>
-        </tr>
-        <tr>
-            <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
-            <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
-            <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
-            <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
-        </tr>
-    </table>
+<div style="text-align: center;">
+    <h3>PART 1</h3>
+    <div style="display: inline-block; text-align: center;">
+        <div>
+            <a href="https://github.com/myagjz/42-libft" target="_blank">
+                <img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/libfte.png" alt="Libft">
+            </a>
+        </div>
+        <div>
+            <a href="https://github.com/myagjz/42-ft_printf" target="_blank">
+                <img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_printfe.png" alt="Ft_printf">
+            </a>
+        </div>
+        <div>
+            <a href="https://github.com/myagjz/42-get_next_line" target="_blank">
+                <img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/get_next_linee.png" alt="Get_next_line">
+            </a>
+        </div>
+        <div>
+            <a href="https://github.com/myagjz/42-Born2beroot" target="_blank">
+                <img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/born2beroote.png" alt="Born2beroot">
+            </a>
+        </div>
+    </div>
+    <div style="display: flex; justify-content: center; margin-top: 10px;">
+        <div style="margin: 0 5px;">
+            <img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100">
+        </div>
+        <div style="margin: 0 5px;">
+            <img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100">
+        </div>
+        <div style="margin: 0 5px;">
+            <img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100">
+        </div>
+        <div style="margin: 0 5px;">
+            <img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100">
+        </div>
+    </div>
 </div>
 
 
