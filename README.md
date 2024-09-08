@@ -10,42 +10,6 @@
     <a href="https://github.com/myagjz/42-Born2beroot" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/born2beroote.png" ></a>
 </div>
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Badges</title>
-    <style>
-        .badge-container {
-            display: flex;
-            justify-content: space-between; /* Eşit mesafe sağlamak için */
-            gap: 10px; /* Badge'ler arasındaki boşluğu ayarlamak için */
-            align-items: center;
-        }
-        .badge-container img {
-            display: block;
-        }
-    </style>
-</head>
-<body>
-    <div class="badge-container">
-        <img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/>
-        <img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/>
-        <img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/>
-        <img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/>
-    </div>
-</body>
-</html>
-
-
- <div align="center">
-    <h3 align="center">PART 1</h3>
-    <a href="https://github.com/myagjz/42-libft" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/libfte.png" ></a>
-    <a href="https://github.com/myagjz/42-ft_printf" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_printfe.png" ></a>
-    <a href="https://github.com/myagjz/42-get_next_line" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/get_next_linee.png" ></a>
-    <a href="https://github.com/myagjz/42-Born2beroot" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/born2beroote.png" ></a>
-</div>
-
  <div align="center">
     <a href="https://github.com/myagjz/42-minitalk" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/minitalke.png" ></a>
     <a href="https://github.com/myagjz/42-push_swap" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/push_swape.png" ></a>
