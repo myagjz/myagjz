@@ -8,13 +8,6 @@
   </tr>
 
  <div align="center">
-    <a href="https://github.com/myagjz/42-libft" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/libfte.png" ></a>
-    <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
-    <div>
-
-
-
- <div align="center">
     <h3 align="center">PART 1</h3>
     <a href="https://github.com/myagjz/42-libft" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/libfte.png" ></a>
     <a href="https://github.com/myagjz/42-ft_printf" target="_blank"><img src="https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/ft_printfe.png" ></a>
