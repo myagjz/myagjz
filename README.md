@@ -1,9 +1,11 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061820,45:0f4c5c,100:2bb3a3&height=230&section=header&text=Mustafa%20YA%C4%9EIZ&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=iOS%20%26%20Android%20Developer%20%E2%80%A2%2042%20Alumni&descSize=18&descAlignY=58&animation=fadeIn" alt="Mustafa YAĞIZ" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061820,45:0f4c5c,100:2bb3a3&height=140&section=header&animation=fadeIn" width="100%" alt="" />
 </p>
 
+<h1 align="center">Mustafa YAĞIZ</h1>
+
 <p align="center">
-<a href="https://github.com/myagjz"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=2BB3A3&center=true&vCenter=true&width=600&lines=iOS+%26+Android+Developer+%F0%9F%93%B1;I+ship+apps+people+actually+use+%F0%9F%9A%80;Creator+of+Auramy+%26+Ferroll+%E2%9C%A8;42+Kocaeli+Alumni+%F0%9F%8E%93" alt="Typing SVG" /></a>
+<a href="https://github.com/myagjz"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=2BB3A3&center=true&vCenter=true&width=560&lines=iOS+%26+Android+Developer;I+ship+apps+people+actually+use;Creator+of+Auramy+%26+Ferroll;42+Kocaeli+Alumni" alt="iOS & Android Developer" /></a>
 </p>
 
 <p align="center">
@@ -14,81 +16,47 @@
 
 <br/>
 
+<h2 align="center">📲 Apps I've Shipped</h2>
+<p align="center"><sub>Live on the App Store & Google Play — tap any image to visit the website</sub></p>
+
 <table align="center">
 <tr>
-<td align="center" width="50%">
-<a href="https://auramyy.github.io/"><img src="https://auramyy.github.io/assets/icon.png" width="80" alt="Auramy"/></a><br/>
-<b>Auramy</b><br/>
-<sub>Photo cleaner, sharing & backup</sub>
-</td>
-<td align="center" width="50%">
-<a href="https://ferroll.github.io/"><img src="https://ferroll.github.io/assets/icon.png" width="80" alt="Ferroll"/></a><br/>
-<b>Ferroll</b><br/>
-<sub>Tilt-controlled maze game</sub>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<h2 align="center">✨ Auramy</h2>
-<p align="center"><i>Your photos, lighter and safer.</i></p>
-
-<p align="center">
-<a href="https://auramyy.github.io/"><img src="https://auramyy.github.io/assets/v11/hero-en.webp" width="92%" alt="Auramy on five phones"/></a>
+<td align="center" valign="top" width="50%">
+<a href="https://auramyy.github.io/"><img src="https://auramyy.github.io/assets/icon.png" width="90" alt="Auramy"/></a>
+<h2>Auramy</h2>
+<p><i>Your photos, lighter and safer.</i></p>
+<a href="https://auramyy.github.io/"><img src="https://auramyy.github.io/assets/v11/hero-en.webp" width="100%" alt="Auramy screenshots"/></a>
+<p align="left">
+🧹 <b>Deep Clean</b> — duplicates & blurry shots gone in one tap<br/>
+📲 <b>Share Anywhere</b> — original quality to any iPhone or Android<br/>
+☁️ <b>Your Own Drive</b> — backups live in your Google Drive<br/>
+🔒 <b>Private</b> — no account, no ads, no tracking
 </p>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">🧹<br/><b>Deep Clean</b><br/><sub>Duplicates & blurry shots gone in one tap</sub></td>
-<td align="center" width="25%">📲<br/><b>Share Anywhere</b><br/><sub>Original quality to any iPhone or Android</sub></td>
-<td align="center" width="25%">☁️<br/><b>Your Own Drive</b><br/><sub>Backups live in your Google Drive</sub></td>
-<td align="center" width="25%">🔒<br/><b>Private</b><br/><sub>No account, no ads, no tracking</sub></td>
-</tr>
-</table>
-
-<p align="center">
-<a href="https://apps.apple.com/app/id6799639796"><img src="https://ferroll.github.io/assets/badges/app-store.svg" height="52" alt="Download on the App Store"/></a>
-&nbsp;&nbsp;
-<a href="https://play.google.com/store/apps/details?id=com.yagiz.auramy"><img src="https://ferroll.github.io/assets/badges/google-play.png" height="52" alt="Get it on Google Play"/></a>
-<br/>
+<a href="https://apps.apple.com/app/id6799639796"><img src="https://ferroll.github.io/assets/badges/app-store.svg" height="40" alt="Download on the App Store"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.yagiz.auramy"><img src="https://ferroll.github.io/assets/badges/google-play.png" height="40" alt="Get it on Google Play"/></a>
+<br/><br/>
 <a href="https://auramyy.github.io/"><img src="https://img.shields.io/badge/Visit%20Website%20%E2%86%92-auramyy.github.io-2bb3a3?style=for-the-badge&labelColor=061820" alt="Website"/></a>
+</td>
+<td align="center" valign="top" width="50%">
+<a href="https://ferroll.github.io/"><img src="https://ferroll.github.io/assets/icon.png" width="90" alt="Ferroll"/></a>
+<h2>Ferroll</h2>
+<p><i>Tilt, roll, and escape!</i></p>
+<a href="https://ferroll.github.io/"><img src="https://ferroll.github.io/assets/screens/01-tilt-roll-escape.jpg" width="49%" alt="Tilt, roll, escape"/></a>
+<a href="https://ferroll.github.io/"><img src="https://ferroll.github.io/assets/screens/02-dodge-ghosts.jpg" width="49%" alt="Dodge ghosts"/></a>
+<p align="left">
+📱 <b>Tilt to Play</b> — real physics, no tapping<br/>
+🎯 <b>42 Levels</b> — five worlds of mazes<br/>
+👻 <b>Ghosts & Traps</b> — learn the timing or get caught<br/>
+🏆 <b>Endless Mode</b> — global leaderboards
 </p>
-
-<br/>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff00,50:2bb3a3,100:ffffff00&height=2" width="80%"/></p>
-<br/>
-
-<h2 align="center">🎮 Ferroll</h2>
-<p align="center"><i>Tilt, roll, and escape!</i></p>
-
-<p align="center">
-<a href="https://ferroll.github.io/"><img src="https://ferroll.github.io/assets/screens/01-tilt-roll-escape.jpg" width="45%" alt="Tilt, roll, escape"/></a>
-<a href="https://ferroll.github.io/"><img src="https://ferroll.github.io/assets/screens/02-dodge-ghosts.jpg" width="45%" alt="Dodge ghosts"/></a>
-<br/>
-<a href="https://ferroll.github.io/"><img src="https://ferroll.github.io/assets/screens/03-collect-gems.jpg" width="45%" alt="Collect gems"/></a>
-<a href="https://ferroll.github.io/"><img src="https://ferroll.github.io/assets/screens/05-endless-mode.jpg" width="45%" alt="Endless mode"/></a>
-</p>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">📱<br/><b>Tilt to Play</b><br/><sub>Real physics, no tapping</sub></td>
-<td align="center" width="25%">🎯<br/><b>42 Levels</b><br/><sub>Five worlds of mazes</sub></td>
-<td align="center" width="25%">👻<br/><b>Ghosts & Traps</b><br/><sub>Learn the timing or get caught</sub></td>
-<td align="center" width="25%">🏆<br/><b>Endless Mode</b><br/><sub>Global leaderboards</sub></td>
+<a href="https://apps.apple.com/app/id6759351512"><img src="https://ferroll.github.io/assets/badges/app-store.svg" height="40" alt="Download on the App Store"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.yagiz.Ferroll"><img src="https://ferroll.github.io/assets/badges/google-play.png" height="40" alt="Get it on Google Play"/></a>
+<br/><br/>
+<a href="https://ferroll.github.io/"><img src="https://img.shields.io/badge/Visit%20Website%20%E2%86%92-ferroll.github.io-e74c3c?style=for-the-badge&labelColor=2b0d0d" alt="Website"/></a>
+</td>
 </tr>
 </table>
 
-<p align="center">
-<a href="https://apps.apple.com/app/id6759351512"><img src="https://ferroll.github.io/assets/badges/app-store.svg" height="52" alt="Download on the App Store"/></a>
-&nbsp;&nbsp;
-<a href="https://play.google.com/store/apps/details?id=com.yagiz.Ferroll"><img src="https://ferroll.github.io/assets/badges/google-play.png" height="52" alt="Get it on Google Play"/></a>
-<br/>
-<a href="https://ferroll.github.io/"><img src="https://img.shields.io/badge/Visit%20Website%20%E2%86%92-ferroll.github.io-e74c3c?style=for-the-badge&labelColor=2b0d0d" alt="Website"/></a>
-</p>
-
-<br/>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff00,50:2bb3a3,100:ffffff00&height=2" width="80%"/></p>
 <br/>
 
 <details>
@@ -120,5 +88,5 @@
 </details>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2bb3a3,50:0f4c5c,100:061820&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=72" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2bb3a3,50:0f4c5c,100:061820&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=72" width="100%" alt=""/>
 </p>
