@@ -21,37 +21,54 @@
 
 <table align="center">
 <tr>
-<td align="center" valign="top" width="50%">
+<td align="center" valign="middle" width="50%">
 <a href="https://auramyy.github.io/"><img src="https://auramyy.github.io/assets/icon.png" width="90" alt="Auramy"/></a>
 <h2>Auramy</h2>
-<p><i>Your photos, lighter and safer.</i></p>
-<a href="https://auramyy.github.io/"><img src="https://auramyy.github.io/assets/v11/hero-en.webp" width="100%" alt="Auramy screenshots"/></a>
-<p align="left">
-🧹 <b>Deep Clean</b> — duplicates & blurry shots gone in one tap<br/>
-📲 <b>Share Anywhere</b> — original quality to any iPhone or Android<br/>
-☁️ <b>Your Own Drive</b> — backups live in your Google Drive<br/>
-🔒 <b>Private</b> — no account, no ads, no tracking
-</p>
-<a href="https://apps.apple.com/app/id6799639796"><img src="https://ferroll.github.io/assets/badges/app-store.svg" height="40" alt="Download on the App Store"/></a>
-<a href="https://play.google.com/store/apps/details?id=com.yagiz.auramy"><img src="https://ferroll.github.io/assets/badges/google-play.png" height="40" alt="Get it on Google Play"/></a>
-<br/><br/>
-<a href="https://auramyy.github.io/"><img src="https://img.shields.io/badge/Visit%20Website%20%E2%86%92-auramyy.github.io-2bb3a3?style=for-the-badge&labelColor=061820" alt="Website"/></a>
+<i>Your photos, lighter and safer.</i>
 </td>
-<td align="center" valign="top" width="50%">
+<td align="center" valign="middle" width="50%">
 <a href="https://ferroll.github.io/"><img src="https://ferroll.github.io/assets/icon.png" width="90" alt="Ferroll"/></a>
 <h2>Ferroll</h2>
-<p><i>Tilt, roll, and escape!</i></p>
-<a href="https://ferroll.github.io/"><img src="https://ferroll.github.io/assets/screens/01-tilt-roll-escape.jpg" width="49%" alt="Tilt, roll, escape"/></a>
-<a href="https://ferroll.github.io/"><img src="https://ferroll.github.io/assets/screens/02-dodge-ghosts.jpg" width="49%" alt="Dodge ghosts"/></a>
-<p align="left">
-📱 <b>Tilt to Play</b> — real physics, no tapping<br/>
-🎯 <b>42 Levels</b> — five worlds of mazes<br/>
-👻 <b>Ghosts & Traps</b> — learn the timing or get caught<br/>
-🏆 <b>Endless Mode</b> — global leaderboards
-</p>
+<i>Tilt, roll, and escape!</i>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<a href="https://auramyy.github.io/"><img src="https://auramyy.github.io/assets/v11/hero-en.webp" width="100%" alt="Auramy screenshots"/></a>
+</td>
+<td align="center" valign="middle">
+<a href="https://ferroll.github.io/"><img src="https://ferroll.github.io/assets/screens/01-tilt-roll-escape.jpg" width="100%" alt="Ferroll gameplay"/></a>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+🧹 <b>Deep Clean</b> in one tap<br/>
+📲 <b>Share</b> with any iPhone or Android<br/>
+☁️ <b>Backup</b> to your own Google Drive<br/>
+🔒 <b>No account</b>, no ads, no tracking
+</td>
+<td align="left" valign="top">
+📱 <b>Tilt</b> to roll, real physics<br/>
+🎯 <b>42 levels</b> across five worlds<br/>
+👻 <b>Ghosts</b> & traps to dodge<br/>
+🏆 <b>Endless mode</b> & leaderboards
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<a href="https://apps.apple.com/app/id6799639796"><img src="https://ferroll.github.io/assets/badges/app-store.svg" height="40" alt="Download on the App Store"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.yagiz.auramy"><img src="https://ferroll.github.io/assets/badges/google-play.png" height="40" alt="Get it on Google Play"/></a>
+</td>
+<td align="center" valign="middle">
 <a href="https://apps.apple.com/app/id6759351512"><img src="https://ferroll.github.io/assets/badges/app-store.svg" height="40" alt="Download on the App Store"/></a>
 <a href="https://play.google.com/store/apps/details?id=com.yagiz.Ferroll"><img src="https://ferroll.github.io/assets/badges/google-play.png" height="40" alt="Get it on Google Play"/></a>
-<br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<a href="https://auramyy.github.io/"><img src="https://img.shields.io/badge/Visit%20Website%20%E2%86%92-auramyy.github.io-2bb3a3?style=for-the-badge&labelColor=061820" alt="Website"/></a>
+</td>
+<td align="center" valign="middle">
 <a href="https://ferroll.github.io/"><img src="https://img.shields.io/badge/Visit%20Website%20%E2%86%92-ferroll.github.io-e74c3c?style=for-the-badge&labelColor=2b0d0d" alt="Website"/></a>
 </td>
 </tr>
