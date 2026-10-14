@@ -34,10 +34,10 @@
 </tr>
 <tr>
 <td align="center" valign="middle">
-<a href="https://auramyy.github.io/"><img src="https://auramyy.github.io/assets/v11/hero-en.webp" width="100%" alt="Auramy screenshots"/></a>
+<a href="https://auramyy.github.io/"><img src="https://images.weserv.nl/?url=auramyy.github.io/assets/v11/hero-en.webp&w=1200&h=675&fit=contain&cbg=061820&output=jpg&q=90" width="100%" alt="Auramy screenshots"/></a>
 </td>
 <td align="center" valign="middle">
-<a href="https://ferroll.github.io/"><img src="https://ferroll.github.io/assets/screens/01-tilt-roll-escape.jpg" width="100%" alt="Ferroll gameplay"/></a>
+<a href="https://ferroll.github.io/"><img src="https://images.weserv.nl/?url=ferroll.github.io/assets/screens/01-tilt-roll-escape.jpg&w=1200&h=675&fit=cover&output=jpg&q=90" width="100%" alt="Ferroll gameplay"/></a>
 </td>
 </tr>
 <tr>
