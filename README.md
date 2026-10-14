@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061820,45:0f4c5c,100:2bb3a3&height=140&section=header&animation=fadeIn" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061820,45:0f4c5c,100:2bb3a3&height=160&section=header&animation=twinkling" width="100%" alt="" />
 </p>
 
-<h1 align="center">Mustafa YAĞIZ</h1>
+<h1 align="center">Mustafa YAĞIZ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="42" alt="👋"/></h1>
 
 <p align="center">
 <a href="https://github.com/myagjz"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=2BB3A3&center=true&vCenter=true&width=560&lines=iOS+%26+Android+Developer;I+ship+apps+people+actually+use;Creator+of+Auramy+%26+Ferroll;42+Kocaeli+Alumni" alt="iOS & Android Developer" /></a>
@@ -16,20 +16,20 @@
 
 <br/>
 
-<h2 align="center">📲 Apps I've Shipped</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="34" alt="🚀"/> Apps I've Shipped</h2>
 <p align="center"><sub>Live on the App Store & Google Play — tap any image to visit the website</sub></p>
 
 <table align="center">
 <tr>
 <td align="center" valign="middle" width="50%">
 <a href="https://auramyy.github.io/"><img src="https://auramyy.github.io/assets/icon.png" width="90" alt="Auramy"/></a>
-<h2>Auramy</h2>
-<i>Your photos, lighter and safer.</i>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="28" alt="✨"/> Auramy</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=2BB3A3&center=true&vCenter=true&width=360&height=28&lines=Your+photos,+lighter+and+safer.;Free+up+space+in+one+tap.;Share+in+full+quality.;Back+up+to+your+own+Drive." alt="Your photos, lighter and safer."/>
 </td>
 <td align="center" valign="middle" width="50%">
 <a href="https://ferroll.github.io/"><img src="https://ferroll.github.io/assets/icon.png" width="90" alt="Ferroll"/></a>
-<h2>Ferroll</h2>
-<i>Tilt, roll, and escape!</i>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="28" alt="🎮"/> Ferroll</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=E74C3C&center=true&vCenter=true&width=360&height=28&lines=Tilt,+roll,+and+escape!;42+levels,+5+worlds.;Dodge+the+ghosts.;Beat+the+leaderboard." alt="Tilt, roll, and escape!"/>
 </td>
 </tr>
 <tr>
@@ -105,5 +105,5 @@
 </details>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2bb3a3,50:0f4c5c,100:061820&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=72" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2bb3a3,50:0f4c5c,100:061820&height=120&section=footer&animation=twinkling&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=72" width="100%" alt=""/>
 </p>
